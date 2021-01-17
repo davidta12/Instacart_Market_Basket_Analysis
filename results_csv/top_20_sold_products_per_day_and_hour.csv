@@ -1,0 +1,3361 @@
+product_id,product_name,order_hour_of_day,orders_count,day
+5876,Organic Lemon,0,130,Saturday
+5876,Organic Lemon,1,72,Saturday
+5876,Organic Lemon,2,45,Saturday
+5876,Organic Lemon,3,25,Saturday
+5876,Organic Lemon,4,22,Saturday
+5876,Organic Lemon,5,32,Saturday
+5876,Organic Lemon,6,80,Saturday
+5876,Organic Lemon,7,357,Saturday
+5876,Organic Lemon,8,926,Saturday
+5876,Organic Lemon,9,1248,Saturday
+5876,Organic Lemon,10,1595,Saturday
+5876,Organic Lemon,11,1610,Saturday
+5876,Organic Lemon,12,1558,Saturday
+5876,Organic Lemon,13,1682,Saturday
+5876,Organic Lemon,14,1794,Saturday
+5876,Organic Lemon,15,1750,Saturday
+5876,Organic Lemon,16,1595,Saturday
+5876,Organic Lemon,17,1171,Saturday
+5876,Organic Lemon,18,883,Saturday
+5876,Organic Lemon,19,689,Saturday
+5876,Organic Lemon,20,565,Saturday
+5876,Organic Lemon,21,439,Saturday
+5876,Organic Lemon,22,354,Saturday
+5876,Organic Lemon,23,218,Saturday
+8277,Apple Honeycrisp Organic,0,88,Saturday
+8277,Apple Honeycrisp Organic,1,40,Saturday
+8277,Apple Honeycrisp Organic,2,33,Saturday
+8277,Apple Honeycrisp Organic,3,21,Saturday
+8277,Apple Honeycrisp Organic,4,16,Saturday
+8277,Apple Honeycrisp Organic,5,31,Saturday
+8277,Apple Honeycrisp Organic,6,115,Saturday
+8277,Apple Honeycrisp Organic,7,435,Saturday
+8277,Apple Honeycrisp Organic,8,1041,Saturday
+8277,Apple Honeycrisp Organic,9,1382,Saturday
+8277,Apple Honeycrisp Organic,10,1508,Saturday
+8277,Apple Honeycrisp Organic,11,1496,Saturday
+8277,Apple Honeycrisp Organic,12,1525,Saturday
+8277,Apple Honeycrisp Organic,13,1653,Saturday
+8277,Apple Honeycrisp Organic,14,1627,Saturday
+8277,Apple Honeycrisp Organic,15,1561,Saturday
+8277,Apple Honeycrisp Organic,16,1439,Saturday
+8277,Apple Honeycrisp Organic,17,1114,Saturday
+8277,Apple Honeycrisp Organic,18,804,Saturday
+8277,Apple Honeycrisp Organic,19,594,Saturday
+8277,Apple Honeycrisp Organic,20,567,Saturday
+8277,Apple Honeycrisp Organic,21,469,Saturday
+8277,Apple Honeycrisp Organic,22,416,Saturday
+8277,Apple Honeycrisp Organic,23,184,Saturday
+13176,Bag of Organic Bananas,0,459,Saturday
+13176,Bag of Organic Bananas,1,272,Saturday
+13176,Bag of Organic Bananas,2,157,Saturday
+13176,Bag of Organic Bananas,3,108,Saturday
+13176,Bag of Organic Bananas,4,82,Saturday
+13176,Bag of Organic Bananas,5,133,Saturday
+13176,Bag of Organic Bananas,6,410,Saturday
+13176,Bag of Organic Bananas,7,1739,Saturday
+13176,Bag of Organic Bananas,8,3914,Saturday
+13176,Bag of Organic Bananas,9,5275,Saturday
+13176,Bag of Organic Bananas,10,5925,Saturday
+13176,Bag of Organic Bananas,11,5955,Saturday
+13176,Bag of Organic Bananas,12,6096,Saturday
+13176,Bag of Organic Bananas,13,6465,Saturday
+13176,Bag of Organic Bananas,14,6713,Saturday
+13176,Bag of Organic Bananas,15,6763,Saturday
+13176,Bag of Organic Bananas,16,6136,Saturday
+13176,Bag of Organic Bananas,17,4947,Saturday
+13176,Bag of Organic Bananas,18,3568,Saturday
+13176,Bag of Organic Bananas,19,2855,Saturday
+13176,Bag of Organic Bananas,20,2378,Saturday
+13176,Bag of Organic Bananas,21,2145,Saturday
+13176,Bag of Organic Bananas,22,1580,Saturday
+13176,Bag of Organic Bananas,23,977,Saturday
+16797,Strawberries,0,182,Saturday
+16797,Strawberries,1,111,Saturday
+16797,Strawberries,2,52,Saturday
+16797,Strawberries,3,33,Saturday
+16797,Strawberries,4,45,Saturday
+16797,Strawberries,5,61,Saturday
+16797,Strawberries,6,175,Saturday
+16797,Strawberries,7,701,Saturday
+16797,Strawberries,8,1592,Saturday
+16797,Strawberries,9,2230,Saturday
+16797,Strawberries,10,2328,Saturday
+16797,Strawberries,11,2487,Saturday
+16797,Strawberries,12,2485,Saturday
+16797,Strawberries,13,2466,Saturday
+16797,Strawberries,14,2589,Saturday
+16797,Strawberries,15,2561,Saturday
+16797,Strawberries,16,2334,Saturday
+16797,Strawberries,17,1759,Saturday
+16797,Strawberries,18,1313,Saturday
+16797,Strawberries,19,1029,Saturday
+16797,Strawberries,20,870,Saturday
+16797,Strawberries,21,758,Saturday
+16797,Strawberries,22,555,Saturday
+16797,Strawberries,23,330,Saturday
+21137,Organic Strawberries,0,363,Saturday
+21137,Organic Strawberries,1,180,Saturday
+21137,Organic Strawberries,2,107,Saturday
+21137,Organic Strawberries,3,66,Saturday
+21137,Organic Strawberries,4,59,Saturday
+21137,Organic Strawberries,5,116,Saturday
+21137,Organic Strawberries,6,316,Saturday
+21137,Organic Strawberries,7,1475,Saturday
+21137,Organic Strawberries,8,3117,Saturday
+21137,Organic Strawberries,9,4006,Saturday
+21137,Organic Strawberries,10,4454,Saturday
+21137,Organic Strawberries,11,4377,Saturday
+21137,Organic Strawberries,12,4424,Saturday
+21137,Organic Strawberries,13,4897,Saturday
+21137,Organic Strawberries,14,5065,Saturday
+21137,Organic Strawberries,15,5008,Saturday
+21137,Organic Strawberries,16,4656,Saturday
+21137,Organic Strawberries,17,3632,Saturday
+21137,Organic Strawberries,18,2713,Saturday
+21137,Organic Strawberries,19,2136,Saturday
+21137,Organic Strawberries,20,1887,Saturday
+21137,Organic Strawberries,21,1619,Saturday
+21137,Organic Strawberries,22,1254,Saturday
+21137,Organic Strawberries,23,708,Saturday
+21903,Organic Baby Spinach,0,365,Saturday
+21903,Organic Baby Spinach,1,227,Saturday
+21903,Organic Baby Spinach,2,81,Saturday
+21903,Organic Baby Spinach,3,84,Saturday
+21903,Organic Baby Spinach,4,51,Saturday
+21903,Organic Baby Spinach,5,102,Saturday
+21903,Organic Baby Spinach,6,314,Saturday
+21903,Organic Baby Spinach,7,1339,Saturday
+21903,Organic Baby Spinach,8,2999,Saturday
+21903,Organic Baby Spinach,9,4135,Saturday
+21903,Organic Baby Spinach,10,4895,Saturday
+21903,Organic Baby Spinach,11,4999,Saturday
+21903,Organic Baby Spinach,12,4999,Saturday
+21903,Organic Baby Spinach,13,5179,Saturday
+21903,Organic Baby Spinach,14,5280,Saturday
+21903,Organic Baby Spinach,15,5186,Saturday
+21903,Organic Baby Spinach,16,4571,Saturday
+21903,Organic Baby Spinach,17,3486,Saturday
+21903,Organic Baby Spinach,18,2587,Saturday
+21903,Organic Baby Spinach,19,1940,Saturday
+21903,Organic Baby Spinach,20,1661,Saturday
+21903,Organic Baby Spinach,21,1357,Saturday
+21903,Organic Baby Spinach,22,1099,Saturday
+21903,Organic Baby Spinach,23,620,Saturday
+22935,Organic Yellow Onion,0,145,Saturday
+22935,Organic Yellow Onion,1,93,Saturday
+22935,Organic Yellow Onion,2,40,Saturday
+22935,Organic Yellow Onion,3,23,Saturday
+22935,Organic Yellow Onion,4,27,Saturday
+22935,Organic Yellow Onion,5,44,Saturday
+22935,Organic Yellow Onion,6,133,Saturday
+22935,Organic Yellow Onion,7,541,Saturday
+22935,Organic Yellow Onion,8,1443,Saturday
+22935,Organic Yellow Onion,9,1986,Saturday
+22935,Organic Yellow Onion,10,2432,Saturday
+22935,Organic Yellow Onion,11,2474,Saturday
+22935,Organic Yellow Onion,12,2502,Saturday
+22935,Organic Yellow Onion,13,2707,Saturday
+22935,Organic Yellow Onion,14,2605,Saturday
+22935,Organic Yellow Onion,15,2465,Saturday
+22935,Organic Yellow Onion,16,2132,Saturday
+22935,Organic Yellow Onion,17,1563,Saturday
+22935,Organic Yellow Onion,18,1081,Saturday
+22935,Organic Yellow Onion,19,760,Saturday
+22935,Organic Yellow Onion,20,695,Saturday
+22935,Organic Yellow Onion,21,601,Saturday
+22935,Organic Yellow Onion,22,443,Saturday
+22935,Organic Yellow Onion,23,265,Saturday
+24852,Banana,0,580,Saturday
+24852,Banana,1,334,Saturday
+24852,Banana,2,184,Saturday
+24852,Banana,3,110,Saturday
+24852,Banana,4,103,Saturday
+24852,Banana,5,172,Saturday
+24852,Banana,6,624,Saturday
+24852,Banana,7,2325,Saturday
+24852,Banana,8,5158,Saturday
+24852,Banana,9,7248,Saturday
+24852,Banana,10,8430,Saturday
+24852,Banana,11,8474,Saturday
+24852,Banana,12,8532,Saturday
+24852,Banana,13,8854,Saturday
+24852,Banana,14,9147,Saturday
+24852,Banana,15,9018,Saturday
+24852,Banana,16,8443,Saturday
+24852,Banana,17,6758,Saturday
+24852,Banana,18,4939,Saturday
+24852,Banana,19,3632,Saturday
+24852,Banana,20,2974,Saturday
+24852,Banana,21,2472,Saturday
+24852,Banana,22,1908,Saturday
+24852,Banana,23,1055,Saturday
+24964,Organic Garlic,0,136,Saturday
+24964,Organic Garlic,1,90,Saturday
+24964,Organic Garlic,2,54,Saturday
+24964,Organic Garlic,3,42,Saturday
+24964,Organic Garlic,4,29,Saturday
+24964,Organic Garlic,5,37,Saturday
+24964,Organic Garlic,6,118,Saturday
+24964,Organic Garlic,7,465,Saturday
+24964,Organic Garlic,8,1237,Saturday
+24964,Organic Garlic,9,1859,Saturday
+24964,Organic Garlic,10,2351,Saturday
+24964,Organic Garlic,11,2503,Saturday
+24964,Organic Garlic,12,2449,Saturday
+24964,Organic Garlic,13,2521,Saturday
+24964,Organic Garlic,14,2481,Saturday
+24964,Organic Garlic,15,2396,Saturday
+24964,Organic Garlic,16,2087,Saturday
+24964,Organic Garlic,17,1508,Saturday
+24964,Organic Garlic,18,1019,Saturday
+24964,Organic Garlic,19,723,Saturday
+24964,Organic Garlic,20,595,Saturday
+24964,Organic Garlic,21,562,Saturday
+24964,Organic Garlic,22,449,Saturday
+24964,Organic Garlic,23,261,Saturday
+26209,Limes,0,195,Saturday
+26209,Limes,1,102,Saturday
+26209,Limes,2,55,Saturday
+26209,Limes,3,38,Saturday
+26209,Limes,4,35,Saturday
+26209,Limes,5,54,Saturday
+26209,Limes,6,172,Saturday
+26209,Limes,7,593,Saturday
+26209,Limes,8,1591,Saturday
+26209,Limes,9,2326,Saturday
+26209,Limes,10,2979,Saturday
+26209,Limes,11,2937,Saturday
+26209,Limes,12,2962,Saturday
+26209,Limes,13,3030,Saturday
+26209,Limes,14,3006,Saturday
+26209,Limes,15,2809,Saturday
+26209,Limes,16,2487,Saturday
+26209,Limes,17,1857,Saturday
+26209,Limes,18,1348,Saturday
+26209,Limes,19,943,Saturday
+26209,Limes,20,777,Saturday
+26209,Limes,21,698,Saturday
+26209,Limes,22,561,Saturday
+26209,Limes,23,323,Saturday
+27845,Organic Whole Milk,0,194,Saturday
+27845,Organic Whole Milk,1,90,Saturday
+27845,Organic Whole Milk,2,54,Saturday
+27845,Organic Whole Milk,3,23,Saturday
+27845,Organic Whole Milk,4,17,Saturday
+27845,Organic Whole Milk,5,51,Saturday
+27845,Organic Whole Milk,6,218,Saturday
+27845,Organic Whole Milk,7,761,Saturday
+27845,Organic Whole Milk,8,1679,Saturday
+27845,Organic Whole Milk,9,2121,Saturday
+27845,Organic Whole Milk,10,2175,Saturday
+27845,Organic Whole Milk,11,2156,Saturday
+27845,Organic Whole Milk,12,2069,Saturday
+27845,Organic Whole Milk,13,2355,Saturday
+27845,Organic Whole Milk,14,2495,Saturday
+27845,Organic Whole Milk,15,2385,Saturday
+27845,Organic Whole Milk,16,1991,Saturday
+27845,Organic Whole Milk,17,1582,Saturday
+27845,Organic Whole Milk,18,1188,Saturday
+27845,Organic Whole Milk,19,953,Saturday
+27845,Organic Whole Milk,20,942,Saturday
+27845,Organic Whole Milk,21,840,Saturday
+27845,Organic Whole Milk,22,644,Saturday
+27845,Organic Whole Milk,23,347,Saturday
+27966,Organic Raspberries,0,154,Saturday
+27966,Organic Raspberries,1,71,Saturday
+27966,Organic Raspberries,2,48,Saturday
+27966,Organic Raspberries,3,32,Saturday
+27966,Organic Raspberries,4,24,Saturday
+27966,Organic Raspberries,5,45,Saturday
+27966,Organic Raspberries,6,180,Saturday
+27966,Organic Raspberries,7,692,Saturday
+27966,Organic Raspberries,8,1570,Saturday
+27966,Organic Raspberries,9,2034,Saturday
+27966,Organic Raspberries,10,2249,Saturday
+27966,Organic Raspberries,11,2151,Saturday
+27966,Organic Raspberries,12,2188,Saturday
+27966,Organic Raspberries,13,2332,Saturday
+27966,Organic Raspberries,14,2431,Saturday
+27966,Organic Raspberries,15,2480,Saturday
+27966,Organic Raspberries,16,2187,Saturday
+27966,Organic Raspberries,17,1803,Saturday
+27966,Organic Raspberries,18,1275,Saturday
+27966,Organic Raspberries,19,1007,Saturday
+27966,Organic Raspberries,20,943,Saturday
+27966,Organic Raspberries,21,820,Saturday
+27966,Organic Raspberries,22,661,Saturday
+27966,Organic Raspberries,23,379,Saturday
+28204,Organic Fuji Apple,0,118,Saturday
+28204,Organic Fuji Apple,1,70,Saturday
+28204,Organic Fuji Apple,2,26,Saturday
+28204,Organic Fuji Apple,3,25,Saturday
+28204,Organic Fuji Apple,4,20,Saturday
+28204,Organic Fuji Apple,5,26,Saturday
+28204,Organic Fuji Apple,6,93,Saturday
+28204,Organic Fuji Apple,7,391,Saturday
+28204,Organic Fuji Apple,8,882,Saturday
+28204,Organic Fuji Apple,9,1233,Saturday
+28204,Organic Fuji Apple,10,1486,Saturday
+28204,Organic Fuji Apple,11,1497,Saturday
+28204,Organic Fuji Apple,12,1431,Saturday
+28204,Organic Fuji Apple,13,1520,Saturday
+28204,Organic Fuji Apple,14,1589,Saturday
+28204,Organic Fuji Apple,15,1580,Saturday
+28204,Organic Fuji Apple,16,1418,Saturday
+28204,Organic Fuji Apple,17,1171,Saturday
+28204,Organic Fuji Apple,18,863,Saturday
+28204,Organic Fuji Apple,19,667,Saturday
+28204,Organic Fuji Apple,20,562,Saturday
+28204,Organic Fuji Apple,21,480,Saturday
+28204,Organic Fuji Apple,22,377,Saturday
+28204,Organic Fuji Apple,23,217,Saturday
+39275,Organic Blueberries,0,150,Saturday
+39275,Organic Blueberries,1,70,Saturday
+39275,Organic Blueberries,2,48,Saturday
+39275,Organic Blueberries,3,39,Saturday
+39275,Organic Blueberries,4,31,Saturday
+39275,Organic Blueberries,5,41,Saturday
+39275,Organic Blueberries,6,122,Saturday
+39275,Organic Blueberries,7,476,Saturday
+39275,Organic Blueberries,8,1102,Saturday
+39275,Organic Blueberries,9,1428,Saturday
+39275,Organic Blueberries,10,1716,Saturday
+39275,Organic Blueberries,11,1697,Saturday
+39275,Organic Blueberries,12,1728,Saturday
+39275,Organic Blueberries,13,1731,Saturday
+39275,Organic Blueberries,14,1723,Saturday
+39275,Organic Blueberries,15,1793,Saturday
+39275,Organic Blueberries,16,1597,Saturday
+39275,Organic Blueberries,17,1198,Saturday
+39275,Organic Blueberries,18,977,Saturday
+39275,Organic Blueberries,19,740,Saturday
+39275,Organic Blueberries,20,687,Saturday
+39275,Organic Blueberries,21,595,Saturday
+39275,Organic Blueberries,22,475,Saturday
+39275,Organic Blueberries,23,257,Saturday
+40706,Organic Grape Tomatoes,0,150,Saturday
+40706,Organic Grape Tomatoes,1,69,Saturday
+40706,Organic Grape Tomatoes,2,31,Saturday
+40706,Organic Grape Tomatoes,3,27,Saturday
+40706,Organic Grape Tomatoes,4,26,Saturday
+40706,Organic Grape Tomatoes,5,35,Saturday
+40706,Organic Grape Tomatoes,6,101,Saturday
+40706,Organic Grape Tomatoes,7,459,Saturday
+40706,Organic Grape Tomatoes,8,1029,Saturday
+40706,Organic Grape Tomatoes,9,1477,Saturday
+40706,Organic Grape Tomatoes,10,1708,Saturday
+40706,Organic Grape Tomatoes,11,1770,Saturday
+40706,Organic Grape Tomatoes,12,1813,Saturday
+40706,Organic Grape Tomatoes,13,1873,Saturday
+40706,Organic Grape Tomatoes,14,1884,Saturday
+40706,Organic Grape Tomatoes,15,1900,Saturday
+40706,Organic Grape Tomatoes,16,1666,Saturday
+40706,Organic Grape Tomatoes,17,1318,Saturday
+40706,Organic Grape Tomatoes,18,912,Saturday
+40706,Organic Grape Tomatoes,19,711,Saturday
+40706,Organic Grape Tomatoes,20,627,Saturday
+40706,Organic Grape Tomatoes,21,523,Saturday
+40706,Organic Grape Tomatoes,22,358,Saturday
+40706,Organic Grape Tomatoes,23,245,Saturday
+45007,Organic Zucchini,0,161,Saturday
+45007,Organic Zucchini,1,78,Saturday
+45007,Organic Zucchini,2,51,Saturday
+45007,Organic Zucchini,3,29,Saturday
+45007,Organic Zucchini,4,28,Saturday
+45007,Organic Zucchini,5,52,Saturday
+45007,Organic Zucchini,6,127,Saturday
+45007,Organic Zucchini,7,552,Saturday
+45007,Organic Zucchini,8,1270,Saturday
+45007,Organic Zucchini,9,1900,Saturday
+45007,Organic Zucchini,10,2127,Saturday
+45007,Organic Zucchini,11,2266,Saturday
+45007,Organic Zucchini,12,2150,Saturday
+45007,Organic Zucchini,13,2339,Saturday
+45007,Organic Zucchini,14,2311,Saturday
+45007,Organic Zucchini,15,2263,Saturday
+45007,Organic Zucchini,16,2032,Saturday
+45007,Organic Zucchini,17,1470,Saturday
+45007,Organic Zucchini,18,1021,Saturday
+45007,Organic Zucchini,19,836,Saturday
+45007,Organic Zucchini,20,723,Saturday
+45007,Organic Zucchini,21,640,Saturday
+45007,Organic Zucchini,22,505,Saturday
+45007,Organic Zucchini,23,271,Saturday
+47209,Organic Hass Avocado,0,239,Saturday
+47209,Organic Hass Avocado,1,156,Saturday
+47209,Organic Hass Avocado,2,68,Saturday
+47209,Organic Hass Avocado,3,63,Saturday
+47209,Organic Hass Avocado,4,47,Saturday
+47209,Organic Hass Avocado,5,80,Saturday
+47209,Organic Hass Avocado,6,256,Saturday
+47209,Organic Hass Avocado,7,1050,Saturday
+47209,Organic Hass Avocado,8,2239,Saturday
+47209,Organic Hass Avocado,9,3221,Saturday
+47209,Organic Hass Avocado,10,3590,Saturday
+47209,Organic Hass Avocado,11,3795,Saturday
+47209,Organic Hass Avocado,12,3800,Saturday
+47209,Organic Hass Avocado,13,4084,Saturday
+47209,Organic Hass Avocado,14,4203,Saturday
+47209,Organic Hass Avocado,15,4172,Saturday
+47209,Organic Hass Avocado,16,3818,Saturday
+47209,Organic Hass Avocado,17,3052,Saturday
+47209,Organic Hass Avocado,18,2175,Saturday
+47209,Organic Hass Avocado,19,1666,Saturday
+47209,Organic Hass Avocado,20,1490,Saturday
+47209,Organic Hass Avocado,21,1160,Saturday
+47209,Organic Hass Avocado,22,892,Saturday
+47209,Organic Hass Avocado,23,525,Saturday
+47626,Large Lemon,0,183,Saturday
+47626,Large Lemon,1,100,Saturday
+47626,Large Lemon,2,61,Saturday
+47626,Large Lemon,3,50,Saturday
+47626,Large Lemon,4,48,Saturday
+47626,Large Lemon,5,69,Saturday
+47626,Large Lemon,6,200,Saturday
+47626,Large Lemon,7,724,Saturday
+47626,Large Lemon,8,1742,Saturday
+47626,Large Lemon,9,2618,Saturday
+47626,Large Lemon,10,3136,Saturday
+47626,Large Lemon,11,3395,Saturday
+47626,Large Lemon,12,3351,Saturday
+47626,Large Lemon,13,3277,Saturday
+47626,Large Lemon,14,3378,Saturday
+47626,Large Lemon,15,3251,Saturday
+47626,Large Lemon,16,2855,Saturday
+47626,Large Lemon,17,2149,Saturday
+47626,Large Lemon,18,1465,Saturday
+47626,Large Lemon,19,1121,Saturday
+47626,Large Lemon,20,895,Saturday
+47626,Large Lemon,21,807,Saturday
+47626,Large Lemon,22,594,Saturday
+47626,Large Lemon,23,357,Saturday
+47766,Organic Avocado,0,242,Saturday
+47766,Organic Avocado,1,116,Saturday
+47766,Organic Avocado,2,70,Saturday
+47766,Organic Avocado,3,55,Saturday
+47766,Organic Avocado,4,38,Saturday
+47766,Organic Avocado,5,59,Saturday
+47766,Organic Avocado,6,178,Saturday
+47766,Organic Avocado,7,814,Saturday
+47766,Organic Avocado,8,2049,Saturday
+47766,Organic Avocado,9,3014,Saturday
+47766,Organic Avocado,10,3442,Saturday
+47766,Organic Avocado,11,3687,Saturday
+47766,Organic Avocado,12,3748,Saturday
+47766,Organic Avocado,13,3857,Saturday
+47766,Organic Avocado,14,3946,Saturday
+47766,Organic Avocado,15,3799,Saturday
+47766,Organic Avocado,16,3498,Saturday
+47766,Organic Avocado,17,2697,Saturday
+47766,Organic Avocado,18,1865,Saturday
+47766,Organic Avocado,19,1379,Saturday
+47766,Organic Avocado,20,1161,Saturday
+47766,Organic Avocado,21,994,Saturday
+47766,Organic Avocado,22,761,Saturday
+47766,Organic Avocado,23,408,Saturday
+49683,Cucumber Kirby,0,151,Saturday
+49683,Cucumber Kirby,1,99,Saturday
+49683,Cucumber Kirby,2,37,Saturday
+49683,Cucumber Kirby,3,37,Saturday
+49683,Cucumber Kirby,4,30,Saturday
+49683,Cucumber Kirby,5,43,Saturday
+49683,Cucumber Kirby,6,112,Saturday
+49683,Cucumber Kirby,7,459,Saturday
+49683,Cucumber Kirby,8,1108,Saturday
+49683,Cucumber Kirby,9,1510,Saturday
+49683,Cucumber Kirby,10,1844,Saturday
+49683,Cucumber Kirby,11,1959,Saturday
+49683,Cucumber Kirby,12,1995,Saturday
+49683,Cucumber Kirby,13,2125,Saturday
+49683,Cucumber Kirby,14,2071,Saturday
+49683,Cucumber Kirby,15,1990,Saturday
+49683,Cucumber Kirby,16,1916,Saturday
+49683,Cucumber Kirby,17,1494,Saturday
+49683,Cucumber Kirby,18,1056,Saturday
+49683,Cucumber Kirby,19,775,Saturday
+49683,Cucumber Kirby,20,662,Saturday
+49683,Cucumber Kirby,21,528,Saturday
+49683,Cucumber Kirby,22,418,Saturday
+49683,Cucumber Kirby,23,225,Saturday
+5876,Organic Lemon,0,110,Sunday
+5876,Organic Lemon,1,52,Sunday
+5876,Organic Lemon,2,44,Sunday
+5876,Organic Lemon,3,20,Sunday
+5876,Organic Lemon,4,20,Sunday
+5876,Organic Lemon,5,38,Sunday
+5876,Organic Lemon,6,170,Sunday
+5876,Organic Lemon,7,463,Sunday
+5876,Organic Lemon,8,963,Sunday
+5876,Organic Lemon,9,1378,Sunday
+5876,Organic Lemon,10,1513,Sunday
+5876,Organic Lemon,11,1468,Sunday
+5876,Organic Lemon,12,1292,Sunday
+5876,Organic Lemon,13,1384,Sunday
+5876,Organic Lemon,14,1298,Sunday
+5876,Organic Lemon,15,1286,Sunday
+5876,Organic Lemon,16,1274,Sunday
+5876,Organic Lemon,17,986,Sunday
+5876,Organic Lemon,18,725,Sunday
+5876,Organic Lemon,19,540,Sunday
+5876,Organic Lemon,20,446,Sunday
+5876,Organic Lemon,21,339,Sunday
+5876,Organic Lemon,22,273,Sunday
+5876,Organic Lemon,23,182,Sunday
+8277,Apple Honeycrisp Organic,0,111,Sunday
+8277,Apple Honeycrisp Organic,1,49,Sunday
+8277,Apple Honeycrisp Organic,2,32,Sunday
+8277,Apple Honeycrisp Organic,3,18,Sunday
+8277,Apple Honeycrisp Organic,4,19,Sunday
+8277,Apple Honeycrisp Organic,5,52,Sunday
+8277,Apple Honeycrisp Organic,6,167,Sunday
+8277,Apple Honeycrisp Organic,7,533,Sunday
+8277,Apple Honeycrisp Organic,8,1154,Sunday
+8277,Apple Honeycrisp Organic,9,1616,Sunday
+8277,Apple Honeycrisp Organic,10,1643,Sunday
+8277,Apple Honeycrisp Organic,11,1440,Sunday
+8277,Apple Honeycrisp Organic,12,1413,Sunday
+8277,Apple Honeycrisp Organic,13,1338,Sunday
+8277,Apple Honeycrisp Organic,14,1226,Sunday
+8277,Apple Honeycrisp Organic,15,1209,Sunday
+8277,Apple Honeycrisp Organic,16,1165,Sunday
+8277,Apple Honeycrisp Organic,17,866,Sunday
+8277,Apple Honeycrisp Organic,18,647,Sunday
+8277,Apple Honeycrisp Organic,19,553,Sunday
+8277,Apple Honeycrisp Organic,20,387,Sunday
+8277,Apple Honeycrisp Organic,21,311,Sunday
+8277,Apple Honeycrisp Organic,22,257,Sunday
+8277,Apple Honeycrisp Organic,23,134,Sunday
+13176,Bag of Organic Bananas,0,539,Sunday
+13176,Bag of Organic Bananas,1,219,Sunday
+13176,Bag of Organic Bananas,2,114,Sunday
+13176,Bag of Organic Bananas,3,88,Sunday
+13176,Bag of Organic Bananas,4,92,Sunday
+13176,Bag of Organic Bananas,5,233,Sunday
+13176,Bag of Organic Bananas,6,733,Sunday
+13176,Bag of Organic Bananas,7,2339,Sunday
+13176,Bag of Organic Bananas,8,4924,Sunday
+13176,Bag of Organic Bananas,9,6905,Sunday
+13176,Bag of Organic Bananas,10,7089,Sunday
+13176,Bag of Organic Bananas,11,6371,Sunday
+13176,Bag of Organic Bananas,12,5705,Sunday
+13176,Bag of Organic Bananas,13,5772,Sunday
+13176,Bag of Organic Bananas,14,5531,Sunday
+13176,Bag of Organic Bananas,15,5454,Sunday
+13176,Bag of Organic Bananas,16,5135,Sunday
+13176,Bag of Organic Bananas,17,4118,Sunday
+13176,Bag of Organic Bananas,18,3137,Sunday
+13176,Bag of Organic Bananas,19,2381,Sunday
+13176,Bag of Organic Bananas,20,1867,Sunday
+13176,Bag of Organic Bananas,21,1502,Sunday
+13176,Bag of Organic Bananas,22,1204,Sunday
+13176,Bag of Organic Bananas,23,754,Sunday
+16797,Strawberries,0,162,Sunday
+16797,Strawberries,1,83,Sunday
+16797,Strawberries,2,43,Sunday
+16797,Strawberries,3,26,Sunday
+16797,Strawberries,4,38,Sunday
+16797,Strawberries,5,81,Sunday
+16797,Strawberries,6,260,Sunday
+16797,Strawberries,7,948,Sunday
+16797,Strawberries,8,1753,Sunday
+16797,Strawberries,9,2458,Sunday
+16797,Strawberries,10,2618,Sunday
+16797,Strawberries,11,2260,Sunday
+16797,Strawberries,12,2108,Sunday
+16797,Strawberries,13,2081,Sunday
+16797,Strawberries,14,2106,Sunday
+16797,Strawberries,15,2017,Sunday
+16797,Strawberries,16,1860,Sunday
+16797,Strawberries,17,1492,Sunday
+16797,Strawberries,18,1177,Sunday
+16797,Strawberries,19,864,Sunday
+16797,Strawberries,20,695,Sunday
+16797,Strawberries,21,560,Sunday
+16797,Strawberries,22,400,Sunday
+16797,Strawberries,23,259,Sunday
+21137,Organic Strawberries,0,338,Sunday
+21137,Organic Strawberries,1,140,Sunday
+21137,Organic Strawberries,2,76,Sunday
+21137,Organic Strawberries,3,51,Sunday
+21137,Organic Strawberries,4,66,Sunday
+21137,Organic Strawberries,5,141,Sunday
+21137,Organic Strawberries,6,574,Sunday
+21137,Organic Strawberries,7,1739,Sunday
+21137,Organic Strawberries,8,3120,Sunday
+21137,Organic Strawberries,9,4071,Sunday
+21137,Organic Strawberries,10,4304,Sunday
+21137,Organic Strawberries,11,4019,Sunday
+21137,Organic Strawberries,12,3824,Sunday
+21137,Organic Strawberries,13,3909,Sunday
+21137,Organic Strawberries,14,3882,Sunday
+21137,Organic Strawberries,15,3719,Sunday
+21137,Organic Strawberries,16,3557,Sunday
+21137,Organic Strawberries,17,2713,Sunday
+21137,Organic Strawberries,18,2111,Sunday
+21137,Organic Strawberries,19,1648,Sunday
+21137,Organic Strawberries,20,1429,Sunday
+21137,Organic Strawberries,21,1107,Sunday
+21137,Organic Strawberries,22,832,Sunday
+21137,Organic Strawberries,23,527,Sunday
+21903,Organic Baby Spinach,0,331,Sunday
+21903,Organic Baby Spinach,1,157,Sunday
+21903,Organic Baby Spinach,2,85,Sunday
+21903,Organic Baby Spinach,3,52,Sunday
+21903,Organic Baby Spinach,4,59,Sunday
+21903,Organic Baby Spinach,5,133,Sunday
+21903,Organic Baby Spinach,6,430,Sunday
+21903,Organic Baby Spinach,7,1381,Sunday
+21903,Organic Baby Spinach,8,2474,Sunday
+21903,Organic Baby Spinach,9,3492,Sunday
+21903,Organic Baby Spinach,10,3851,Sunday
+21903,Organic Baby Spinach,11,3789,Sunday
+21903,Organic Baby Spinach,12,3744,Sunday
+21903,Organic Baby Spinach,13,3648,Sunday
+21903,Organic Baby Spinach,14,3627,Sunday
+21903,Organic Baby Spinach,15,3542,Sunday
+21903,Organic Baby Spinach,16,3296,Sunday
+21903,Organic Baby Spinach,17,2741,Sunday
+21903,Organic Baby Spinach,18,2150,Sunday
+21903,Organic Baby Spinach,19,1582,Sunday
+21903,Organic Baby Spinach,20,1147,Sunday
+21903,Organic Baby Spinach,21,953,Sunday
+21903,Organic Baby Spinach,22,714,Sunday
+21903,Organic Baby Spinach,23,441,Sunday
+22935,Organic Yellow Onion,0,120,Sunday
+22935,Organic Yellow Onion,1,66,Sunday
+22935,Organic Yellow Onion,2,38,Sunday
+22935,Organic Yellow Onion,3,21,Sunday
+22935,Organic Yellow Onion,4,29,Sunday
+22935,Organic Yellow Onion,5,54,Sunday
+22935,Organic Yellow Onion,6,171,Sunday
+22935,Organic Yellow Onion,7,520,Sunday
+22935,Organic Yellow Onion,8,1045,Sunday
+22935,Organic Yellow Onion,9,1530,Sunday
+22935,Organic Yellow Onion,10,1876,Sunday
+22935,Organic Yellow Onion,11,1808,Sunday
+22935,Organic Yellow Onion,12,1784,Sunday
+22935,Organic Yellow Onion,13,1816,Sunday
+22935,Organic Yellow Onion,14,1848,Sunday
+22935,Organic Yellow Onion,15,1804,Sunday
+22935,Organic Yellow Onion,16,1550,Sunday
+22935,Organic Yellow Onion,17,1163,Sunday
+22935,Organic Yellow Onion,18,880,Sunday
+22935,Organic Yellow Onion,19,597,Sunday
+22935,Organic Yellow Onion,20,494,Sunday
+22935,Organic Yellow Onion,21,428,Sunday
+22935,Organic Yellow Onion,22,338,Sunday
+22935,Organic Yellow Onion,23,192,Sunday
+24852,Banana,0,507,Sunday
+24852,Banana,1,239,Sunday
+24852,Banana,2,157,Sunday
+24852,Banana,3,84,Sunday
+24852,Banana,4,108,Sunday
+24852,Banana,5,254,Sunday
+24852,Banana,6,1013,Sunday
+24852,Banana,7,3094,Sunday
+24852,Banana,8,6203,Sunday
+24852,Banana,9,9227,Sunday
+24852,Banana,10,9104,Sunday
+24852,Banana,11,7812,Sunday
+24852,Banana,12,6984,Sunday
+24852,Banana,13,6810,Sunday
+24852,Banana,14,6845,Sunday
+24852,Banana,15,6812,Sunday
+24852,Banana,16,6412,Sunday
+24852,Banana,17,5396,Sunday
+24852,Banana,18,4307,Sunday
+24852,Banana,19,3208,Sunday
+24852,Banana,20,2343,Sunday
+24852,Banana,21,1793,Sunday
+24852,Banana,22,1271,Sunday
+24852,Banana,23,767,Sunday
+24964,Organic Garlic,0,143,Sunday
+24964,Organic Garlic,1,59,Sunday
+24964,Organic Garlic,2,31,Sunday
+24964,Organic Garlic,3,24,Sunday
+24964,Organic Garlic,4,26,Sunday
+24964,Organic Garlic,5,52,Sunday
+24964,Organic Garlic,6,131,Sunday
+24964,Organic Garlic,7,498,Sunday
+24964,Organic Garlic,8,949,Sunday
+24964,Organic Garlic,9,1347,Sunday
+24964,Organic Garlic,10,1671,Sunday
+24964,Organic Garlic,11,1720,Sunday
+24964,Organic Garlic,12,1633,Sunday
+24964,Organic Garlic,13,1650,Sunday
+24964,Organic Garlic,14,1712,Sunday
+24964,Organic Garlic,15,1704,Sunday
+24964,Organic Garlic,16,1497,Sunday
+24964,Organic Garlic,17,1146,Sunday
+24964,Organic Garlic,18,868,Sunday
+24964,Organic Garlic,19,619,Sunday
+24964,Organic Garlic,20,439,Sunday
+24964,Organic Garlic,21,421,Sunday
+24964,Organic Garlic,22,329,Sunday
+24964,Organic Garlic,23,201,Sunday
+26209,Limes,0,170,Sunday
+26209,Limes,1,87,Sunday
+26209,Limes,2,37,Sunday
+26209,Limes,3,30,Sunday
+26209,Limes,4,31,Sunday
+26209,Limes,5,43,Sunday
+26209,Limes,6,207,Sunday
+26209,Limes,7,650,Sunday
+26209,Limes,8,1292,Sunday
+26209,Limes,9,1825,Sunday
+26209,Limes,10,2147,Sunday
+26209,Limes,11,2140,Sunday
+26209,Limes,12,2080,Sunday
+26209,Limes,13,2105,Sunday
+26209,Limes,14,1981,Sunday
+26209,Limes,15,2027,Sunday
+26209,Limes,16,1977,Sunday
+26209,Limes,17,1469,Sunday
+26209,Limes,18,1150,Sunday
+26209,Limes,19,771,Sunday
+26209,Limes,20,577,Sunday
+26209,Limes,21,508,Sunday
+26209,Limes,22,381,Sunday
+26209,Limes,23,264,Sunday
+27845,Organic Whole Milk,0,157,Sunday
+27845,Organic Whole Milk,1,66,Sunday
+27845,Organic Whole Milk,2,40,Sunday
+27845,Organic Whole Milk,3,22,Sunday
+27845,Organic Whole Milk,4,25,Sunday
+27845,Organic Whole Milk,5,67,Sunday
+27845,Organic Whole Milk,6,291,Sunday
+27845,Organic Whole Milk,7,906,Sunday
+27845,Organic Whole Milk,8,1595,Sunday
+27845,Organic Whole Milk,9,2142,Sunday
+27845,Organic Whole Milk,10,2334,Sunday
+27845,Organic Whole Milk,11,1968,Sunday
+27845,Organic Whole Milk,12,1885,Sunday
+27845,Organic Whole Milk,13,1910,Sunday
+27845,Organic Whole Milk,14,1915,Sunday
+27845,Organic Whole Milk,15,1785,Sunday
+27845,Organic Whole Milk,16,1724,Sunday
+27845,Organic Whole Milk,17,1248,Sunday
+27845,Organic Whole Milk,18,1054,Sunday
+27845,Organic Whole Milk,19,836,Sunday
+27845,Organic Whole Milk,20,738,Sunday
+27845,Organic Whole Milk,21,583,Sunday
+27845,Organic Whole Milk,22,461,Sunday
+27845,Organic Whole Milk,23,273,Sunday
+27966,Organic Raspberries,0,180,Sunday
+27966,Organic Raspberries,1,79,Sunday
+27966,Organic Raspberries,2,44,Sunday
+27966,Organic Raspberries,3,26,Sunday
+27966,Organic Raspberries,4,30,Sunday
+27966,Organic Raspberries,5,85,Sunday
+27966,Organic Raspberries,6,274,Sunday
+27966,Organic Raspberries,7,959,Sunday
+27966,Organic Raspberries,8,1742,Sunday
+27966,Organic Raspberries,9,2395,Sunday
+27966,Organic Raspberries,10,2457,Sunday
+27966,Organic Raspberries,11,2111,Sunday
+27966,Organic Raspberries,12,1975,Sunday
+27966,Organic Raspberries,13,1978,Sunday
+27966,Organic Raspberries,14,1963,Sunday
+27966,Organic Raspberries,15,1832,Sunday
+27966,Organic Raspberries,16,1724,Sunday
+27966,Organic Raspberries,17,1350,Sunday
+27966,Organic Raspberries,18,1062,Sunday
+27966,Organic Raspberries,19,841,Sunday
+27966,Organic Raspberries,20,686,Sunday
+27966,Organic Raspberries,21,573,Sunday
+27966,Organic Raspberries,22,442,Sunday
+27966,Organic Raspberries,23,255,Sunday
+28204,Organic Fuji Apple,0,111,Sunday
+28204,Organic Fuji Apple,1,37,Sunday
+28204,Organic Fuji Apple,2,23,Sunday
+28204,Organic Fuji Apple,3,18,Sunday
+28204,Organic Fuji Apple,4,25,Sunday
+28204,Organic Fuji Apple,5,59,Sunday
+28204,Organic Fuji Apple,6,219,Sunday
+28204,Organic Fuji Apple,7,619,Sunday
+28204,Organic Fuji Apple,8,1431,Sunday
+28204,Organic Fuji Apple,9,2282,Sunday
+28204,Organic Fuji Apple,10,2225,Sunday
+28204,Organic Fuji Apple,11,1696,Sunday
+28204,Organic Fuji Apple,12,1378,Sunday
+28204,Organic Fuji Apple,13,1242,Sunday
+28204,Organic Fuji Apple,14,1344,Sunday
+28204,Organic Fuji Apple,15,1236,Sunday
+28204,Organic Fuji Apple,16,1224,Sunday
+28204,Organic Fuji Apple,17,990,Sunday
+28204,Organic Fuji Apple,18,791,Sunday
+28204,Organic Fuji Apple,19,558,Sunday
+28204,Organic Fuji Apple,20,407,Sunday
+28204,Organic Fuji Apple,21,327,Sunday
+28204,Organic Fuji Apple,22,222,Sunday
+28204,Organic Fuji Apple,23,129,Sunday
+39275,Organic Blueberries,0,137,Sunday
+39275,Organic Blueberries,1,63,Sunday
+39275,Organic Blueberries,2,40,Sunday
+39275,Organic Blueberries,3,14,Sunday
+39275,Organic Blueberries,4,23,Sunday
+39275,Organic Blueberries,5,48,Sunday
+39275,Organic Blueberries,6,174,Sunday
+39275,Organic Blueberries,7,576,Sunday
+39275,Organic Blueberries,8,1087,Sunday
+39275,Organic Blueberries,9,1540,Sunday
+39275,Organic Blueberries,10,1716,Sunday
+39275,Organic Blueberries,11,1540,Sunday
+39275,Organic Blueberries,12,1454,Sunday
+39275,Organic Blueberries,13,1446,Sunday
+39275,Organic Blueberries,14,1489,Sunday
+39275,Organic Blueberries,15,1407,Sunday
+39275,Organic Blueberries,16,1273,Sunday
+39275,Organic Blueberries,17,1083,Sunday
+39275,Organic Blueberries,18,818,Sunday
+39275,Organic Blueberries,19,640,Sunday
+39275,Organic Blueberries,20,545,Sunday
+39275,Organic Blueberries,21,454,Sunday
+39275,Organic Blueberries,22,379,Sunday
+39275,Organic Blueberries,23,205,Sunday
+40706,Organic Grape Tomatoes,0,120,Sunday
+40706,Organic Grape Tomatoes,1,50,Sunday
+40706,Organic Grape Tomatoes,2,30,Sunday
+40706,Organic Grape Tomatoes,3,20,Sunday
+40706,Organic Grape Tomatoes,4,18,Sunday
+40706,Organic Grape Tomatoes,5,34,Sunday
+40706,Organic Grape Tomatoes,6,165,Sunday
+40706,Organic Grape Tomatoes,7,429,Sunday
+40706,Organic Grape Tomatoes,8,858,Sunday
+40706,Organic Grape Tomatoes,9,1157,Sunday
+40706,Organic Grape Tomatoes,10,1407,Sunday
+40706,Organic Grape Tomatoes,11,1294,Sunday
+40706,Organic Grape Tomatoes,12,1329,Sunday
+40706,Organic Grape Tomatoes,13,1274,Sunday
+40706,Organic Grape Tomatoes,14,1306,Sunday
+40706,Organic Grape Tomatoes,15,1288,Sunday
+40706,Organic Grape Tomatoes,16,1257,Sunday
+40706,Organic Grape Tomatoes,17,988,Sunday
+40706,Organic Grape Tomatoes,18,740,Sunday
+40706,Organic Grape Tomatoes,19,547,Sunday
+40706,Organic Grape Tomatoes,20,409,Sunday
+40706,Organic Grape Tomatoes,21,392,Sunday
+40706,Organic Grape Tomatoes,22,270,Sunday
+40706,Organic Grape Tomatoes,23,187,Sunday
+45007,Organic Zucchini,0,139,Sunday
+45007,Organic Zucchini,1,64,Sunday
+45007,Organic Zucchini,2,30,Sunday
+45007,Organic Zucchini,3,27,Sunday
+45007,Organic Zucchini,4,30,Sunday
+45007,Organic Zucchini,5,51,Sunday
+45007,Organic Zucchini,6,179,Sunday
+45007,Organic Zucchini,7,539,Sunday
+45007,Organic Zucchini,8,1071,Sunday
+45007,Organic Zucchini,9,1489,Sunday
+45007,Organic Zucchini,10,1713,Sunday
+45007,Organic Zucchini,11,1672,Sunday
+45007,Organic Zucchini,12,1630,Sunday
+45007,Organic Zucchini,13,1699,Sunday
+45007,Organic Zucchini,14,1675,Sunday
+45007,Organic Zucchini,15,1713,Sunday
+45007,Organic Zucchini,16,1514,Sunday
+45007,Organic Zucchini,17,1209,Sunday
+45007,Organic Zucchini,18,832,Sunday
+45007,Organic Zucchini,19,630,Sunday
+45007,Organic Zucchini,20,492,Sunday
+45007,Organic Zucchini,21,453,Sunday
+45007,Organic Zucchini,22,326,Sunday
+45007,Organic Zucchini,23,226,Sunday
+47209,Organic Hass Avocado,0,257,Sunday
+47209,Organic Hass Avocado,1,108,Sunday
+47209,Organic Hass Avocado,2,63,Sunday
+47209,Organic Hass Avocado,3,45,Sunday
+47209,Organic Hass Avocado,4,49,Sunday
+47209,Organic Hass Avocado,5,106,Sunday
+47209,Organic Hass Avocado,6,405,Sunday
+47209,Organic Hass Avocado,7,1253,Sunday
+47209,Organic Hass Avocado,8,2309,Sunday
+47209,Organic Hass Avocado,9,3225,Sunday
+47209,Organic Hass Avocado,10,3542,Sunday
+47209,Organic Hass Avocado,11,3390,Sunday
+47209,Organic Hass Avocado,12,3321,Sunday
+47209,Organic Hass Avocado,13,3216,Sunday
+47209,Organic Hass Avocado,14,3343,Sunday
+47209,Organic Hass Avocado,15,3259,Sunday
+47209,Organic Hass Avocado,16,3039,Sunday
+47209,Organic Hass Avocado,17,2494,Sunday
+47209,Organic Hass Avocado,18,1835,Sunday
+47209,Organic Hass Avocado,19,1428,Sunday
+47209,Organic Hass Avocado,20,1052,Sunday
+47209,Organic Hass Avocado,21,870,Sunday
+47209,Organic Hass Avocado,22,658,Sunday
+47209,Organic Hass Avocado,23,393,Sunday
+47626,Large Lemon,0,192,Sunday
+47626,Large Lemon,1,76,Sunday
+47626,Large Lemon,2,46,Sunday
+47626,Large Lemon,3,30,Sunday
+47626,Large Lemon,4,44,Sunday
+47626,Large Lemon,5,72,Sunday
+47626,Large Lemon,6,254,Sunday
+47626,Large Lemon,7,757,Sunday
+47626,Large Lemon,8,1629,Sunday
+47626,Large Lemon,9,2434,Sunday
+47626,Large Lemon,10,2681,Sunday
+47626,Large Lemon,11,2537,Sunday
+47626,Large Lemon,12,2355,Sunday
+47626,Large Lemon,13,2301,Sunday
+47626,Large Lemon,14,2339,Sunday
+47626,Large Lemon,15,2289,Sunday
+47626,Large Lemon,16,2186,Sunday
+47626,Large Lemon,17,1758,Sunday
+47626,Large Lemon,18,1319,Sunday
+47626,Large Lemon,19,895,Sunday
+47626,Large Lemon,20,643,Sunday
+47626,Large Lemon,21,504,Sunday
+47626,Large Lemon,22,403,Sunday
+47626,Large Lemon,23,252,Sunday
+47766,Organic Avocado,0,238,Sunday
+47766,Organic Avocado,1,96,Sunday
+47766,Organic Avocado,2,62,Sunday
+47766,Organic Avocado,3,35,Sunday
+47766,Organic Avocado,4,45,Sunday
+47766,Organic Avocado,5,69,Sunday
+47766,Organic Avocado,6,322,Sunday
+47766,Organic Avocado,7,954,Sunday
+47766,Organic Avocado,8,1826,Sunday
+47766,Organic Avocado,9,2682,Sunday
+47766,Organic Avocado,10,2975,Sunday
+47766,Organic Avocado,11,2840,Sunday
+47766,Organic Avocado,12,2791,Sunday
+47766,Organic Avocado,13,2809,Sunday
+47766,Organic Avocado,14,2682,Sunday
+47766,Organic Avocado,15,2792,Sunday
+47766,Organic Avocado,16,2669,Sunday
+47766,Organic Avocado,17,2173,Sunday
+47766,Organic Avocado,18,1655,Sunday
+47766,Organic Avocado,19,1202,Sunday
+47766,Organic Avocado,20,931,Sunday
+47766,Organic Avocado,21,719,Sunday
+47766,Organic Avocado,22,543,Sunday
+47766,Organic Avocado,23,340,Sunday
+49683,Cucumber Kirby,0,149,Sunday
+49683,Cucumber Kirby,1,59,Sunday
+49683,Cucumber Kirby,2,30,Sunday
+49683,Cucumber Kirby,3,20,Sunday
+49683,Cucumber Kirby,4,35,Sunday
+49683,Cucumber Kirby,5,49,Sunday
+49683,Cucumber Kirby,6,177,Sunday
+49683,Cucumber Kirby,7,545,Sunday
+49683,Cucumber Kirby,8,923,Sunday
+49683,Cucumber Kirby,9,1431,Sunday
+49683,Cucumber Kirby,10,1535,Sunday
+49683,Cucumber Kirby,11,1565,Sunday
+49683,Cucumber Kirby,12,1464,Sunday
+49683,Cucumber Kirby,13,1490,Sunday
+49683,Cucumber Kirby,14,1496,Sunday
+49683,Cucumber Kirby,15,1456,Sunday
+49683,Cucumber Kirby,16,1399,Sunday
+49683,Cucumber Kirby,17,1156,Sunday
+49683,Cucumber Kirby,18,880,Sunday
+49683,Cucumber Kirby,19,677,Sunday
+49683,Cucumber Kirby,20,498,Sunday
+49683,Cucumber Kirby,21,392,Sunday
+49683,Cucumber Kirby,22,308,Sunday
+49683,Cucumber Kirby,23,172,Sunday
+5876,Organic Lemon,0,93,Monday
+5876,Organic Lemon,1,38,Monday
+5876,Organic Lemon,2,25,Monday
+5876,Organic Lemon,3,25,Monday
+5876,Organic Lemon,4,19,Monday
+5876,Organic Lemon,5,32,Monday
+5876,Organic Lemon,6,131,Monday
+5876,Organic Lemon,7,346,Monday
+5876,Organic Lemon,8,619,Monday
+5876,Organic Lemon,9,881,Monday
+5876,Organic Lemon,10,970,Monday
+5876,Organic Lemon,11,946,Monday
+5876,Organic Lemon,12,872,Monday
+5876,Organic Lemon,13,973,Monday
+5876,Organic Lemon,14,895,Monday
+5876,Organic Lemon,15,964,Monday
+5876,Organic Lemon,16,925,Monday
+5876,Organic Lemon,17,792,Monday
+5876,Organic Lemon,18,609,Monday
+5876,Organic Lemon,19,478,Monday
+5876,Organic Lemon,20,368,Monday
+5876,Organic Lemon,21,267,Monday
+5876,Organic Lemon,22,243,Monday
+5876,Organic Lemon,23,156,Monday
+8277,Apple Honeycrisp Organic,0,61,Monday
+8277,Apple Honeycrisp Organic,1,19,Monday
+8277,Apple Honeycrisp Organic,2,14,Monday
+8277,Apple Honeycrisp Organic,3,8,Monday
+8277,Apple Honeycrisp Organic,4,13,Monday
+8277,Apple Honeycrisp Organic,5,37,Monday
+8277,Apple Honeycrisp Organic,6,117,Monday
+8277,Apple Honeycrisp Organic,7,394,Monday
+8277,Apple Honeycrisp Organic,8,623,Monday
+8277,Apple Honeycrisp Organic,9,904,Monday
+8277,Apple Honeycrisp Organic,10,1006,Monday
+8277,Apple Honeycrisp Organic,11,897,Monday
+8277,Apple Honeycrisp Organic,12,858,Monday
+8277,Apple Honeycrisp Organic,13,835,Monday
+8277,Apple Honeycrisp Organic,14,846,Monday
+8277,Apple Honeycrisp Organic,15,888,Monday
+8277,Apple Honeycrisp Organic,16,843,Monday
+8277,Apple Honeycrisp Organic,17,681,Monday
+8277,Apple Honeycrisp Organic,18,553,Monday
+8277,Apple Honeycrisp Organic,19,451,Monday
+8277,Apple Honeycrisp Organic,20,321,Monday
+8277,Apple Honeycrisp Organic,21,261,Monday
+8277,Apple Honeycrisp Organic,22,240,Monday
+8277,Apple Honeycrisp Organic,23,135,Monday
+13176,Bag of Organic Bananas,0,415,Monday
+13176,Bag of Organic Bananas,1,187,Monday
+13176,Bag of Organic Bananas,2,112,Monday
+13176,Bag of Organic Bananas,3,80,Monday
+13176,Bag of Organic Bananas,4,79,Monday
+13176,Bag of Organic Bananas,5,133,Monday
+13176,Bag of Organic Bananas,6,572,Monday
+13176,Bag of Organic Bananas,7,1705,Monday
+13176,Bag of Organic Bananas,8,3012,Monday
+13176,Bag of Organic Bananas,9,4257,Monday
+13176,Bag of Organic Bananas,10,4419,Monday
+13176,Bag of Organic Bananas,11,4304,Monday
+13176,Bag of Organic Bananas,12,3935,Monday
+13176,Bag of Organic Bananas,13,4100,Monday
+13176,Bag of Organic Bananas,14,4044,Monday
+13176,Bag of Organic Bananas,15,4171,Monday
+13176,Bag of Organic Bananas,16,3911,Monday
+13176,Bag of Organic Bananas,17,3215,Monday
+13176,Bag of Organic Bananas,18,2722,Monday
+13176,Bag of Organic Bananas,19,2148,Monday
+13176,Bag of Organic Bananas,20,1648,Monday
+13176,Bag of Organic Bananas,21,1275,Monday
+13176,Bag of Organic Bananas,22,1020,Monday
+13176,Bag of Organic Bananas,23,658,Monday
+16797,Strawberries,0,141,Monday
+16797,Strawberries,1,59,Monday
+16797,Strawberries,2,35,Monday
+16797,Strawberries,3,21,Monday
+16797,Strawberries,4,30,Monday
+16797,Strawberries,5,60,Monday
+16797,Strawberries,6,216,Monday
+16797,Strawberries,7,682,Monday
+16797,Strawberries,8,1039,Monday
+16797,Strawberries,9,1577,Monday
+16797,Strawberries,10,1636,Monday
+16797,Strawberries,11,1538,Monday
+16797,Strawberries,12,1472,Monday
+16797,Strawberries,13,1443,Monday
+16797,Strawberries,14,1492,Monday
+16797,Strawberries,15,1438,Monday
+16797,Strawberries,16,1511,Monday
+16797,Strawberries,17,1211,Monday
+16797,Strawberries,18,1020,Monday
+16797,Strawberries,19,775,Monday
+16797,Strawberries,20,622,Monday
+16797,Strawberries,21,486,Monday
+16797,Strawberries,22,390,Monday
+16797,Strawberries,23,253,Monday
+21137,Organic Strawberries,0,233,Monday
+21137,Organic Strawberries,1,114,Monday
+21137,Organic Strawberries,2,48,Monday
+21137,Organic Strawberries,3,50,Monday
+21137,Organic Strawberries,4,48,Monday
+21137,Organic Strawberries,5,96,Monday
+21137,Organic Strawberries,6,411,Monday
+21137,Organic Strawberries,7,1206,Monday
+21137,Organic Strawberries,8,1905,Monday
+21137,Organic Strawberries,9,2491,Monday
+21137,Organic Strawberries,10,2655,Monday
+21137,Organic Strawberries,11,2634,Monday
+21137,Organic Strawberries,12,2534,Monday
+21137,Organic Strawberries,13,2664,Monday
+21137,Organic Strawberries,14,2710,Monday
+21137,Organic Strawberries,15,2672,Monday
+21137,Organic Strawberries,16,2696,Monday
+21137,Organic Strawberries,17,2077,Monday
+21137,Organic Strawberries,18,1785,Monday
+21137,Organic Strawberries,19,1368,Monday
+21137,Organic Strawberries,20,1130,Monday
+21137,Organic Strawberries,21,916,Monday
+21137,Organic Strawberries,22,735,Monday
+21137,Organic Strawberries,23,441,Monday
+21903,Organic Baby Spinach,0,252,Monday
+21903,Organic Baby Spinach,1,113,Monday
+21903,Organic Baby Spinach,2,62,Monday
+21903,Organic Baby Spinach,3,57,Monday
+21903,Organic Baby Spinach,4,64,Monday
+21903,Organic Baby Spinach,5,106,Monday
+21903,Organic Baby Spinach,6,352,Monday
+21903,Organic Baby Spinach,7,934,Monday
+21903,Organic Baby Spinach,8,1612,Monday
+21903,Organic Baby Spinach,9,2139,Monday
+21903,Organic Baby Spinach,10,2434,Monday
+21903,Organic Baby Spinach,11,2426,Monday
+21903,Organic Baby Spinach,12,2448,Monday
+21903,Organic Baby Spinach,13,2501,Monday
+21903,Organic Baby Spinach,14,2486,Monday
+21903,Organic Baby Spinach,15,2538,Monday
+21903,Organic Baby Spinach,16,2544,Monday
+21903,Organic Baby Spinach,17,2089,Monday
+21903,Organic Baby Spinach,18,1751,Monday
+21903,Organic Baby Spinach,19,1261,Monday
+21903,Organic Baby Spinach,20,1045,Monday
+21903,Organic Baby Spinach,21,824,Monday
+21903,Organic Baby Spinach,22,654,Monday
+21903,Organic Baby Spinach,23,402,Monday
+22935,Organic Yellow Onion,0,89,Monday
+22935,Organic Yellow Onion,1,51,Monday
+22935,Organic Yellow Onion,2,24,Monday
+22935,Organic Yellow Onion,3,22,Monday
+22935,Organic Yellow Onion,4,18,Monday
+22935,Organic Yellow Onion,5,39,Monday
+22935,Organic Yellow Onion,6,142,Monday
+22935,Organic Yellow Onion,7,407,Monday
+22935,Organic Yellow Onion,8,720,Monday
+22935,Organic Yellow Onion,9,1060,Monday
+22935,Organic Yellow Onion,10,1214,Monday
+22935,Organic Yellow Onion,11,1208,Monday
+22935,Organic Yellow Onion,12,1219,Monday
+22935,Organic Yellow Onion,13,1220,Monday
+22935,Organic Yellow Onion,14,1174,Monday
+22935,Organic Yellow Onion,15,1212,Monday
+22935,Organic Yellow Onion,16,1142,Monday
+22935,Organic Yellow Onion,17,944,Monday
+22935,Organic Yellow Onion,18,677,Monday
+22935,Organic Yellow Onion,19,567,Monday
+22935,Organic Yellow Onion,20,431,Monday
+22935,Organic Yellow Onion,21,367,Monday
+22935,Organic Yellow Onion,22,278,Monday
+22935,Organic Yellow Onion,23,198,Monday
+24852,Banana,0,371,Monday
+24852,Banana,1,174,Monday
+24852,Banana,2,88,Monday
+24852,Banana,3,87,Monday
+24852,Banana,4,96,Monday
+24852,Banana,5,206,Monday
+24852,Banana,6,714,Monday
+24852,Banana,7,2019,Monday
+24852,Banana,8,3582,Monday
+24852,Banana,9,5089,Monday
+24852,Banana,10,5250,Monday
+24852,Banana,11,5039,Monday
+24852,Banana,12,4554,Monday
+24852,Banana,13,4569,Monday
+24852,Banana,14,4903,Monday
+24852,Banana,15,4703,Monday
+24852,Banana,16,4933,Monday
+24852,Banana,17,4203,Monday
+24852,Banana,18,3578,Monday
+24852,Banana,19,2601,Monday
+24852,Banana,20,1987,Monday
+24852,Banana,21,1448,Monday
+24852,Banana,22,1115,Monday
+24852,Banana,23,693,Monday
+24964,Organic Garlic,0,112,Monday
+24964,Organic Garlic,1,47,Monday
+24964,Organic Garlic,2,28,Monday
+24964,Organic Garlic,3,30,Monday
+24964,Organic Garlic,4,18,Monday
+24964,Organic Garlic,5,43,Monday
+24964,Organic Garlic,6,118,Monday
+24964,Organic Garlic,7,360,Monday
+24964,Organic Garlic,8,631,Monday
+24964,Organic Garlic,9,955,Monday
+24964,Organic Garlic,10,1123,Monday
+24964,Organic Garlic,11,1132,Monday
+24964,Organic Garlic,12,1168,Monday
+24964,Organic Garlic,13,1213,Monday
+24964,Organic Garlic,14,1193,Monday
+24964,Organic Garlic,15,1119,Monday
+24964,Organic Garlic,16,1117,Monday
+24964,Organic Garlic,17,945,Monday
+24964,Organic Garlic,18,762,Monday
+24964,Organic Garlic,19,520,Monday
+24964,Organic Garlic,20,386,Monday
+24964,Organic Garlic,21,319,Monday
+24964,Organic Garlic,22,280,Monday
+24964,Organic Garlic,23,172,Monday
+26209,Limes,0,126,Monday
+26209,Limes,1,66,Monday
+26209,Limes,2,23,Monday
+26209,Limes,3,25,Monday
+26209,Limes,4,28,Monday
+26209,Limes,5,37,Monday
+26209,Limes,6,153,Monday
+26209,Limes,7,469,Monday
+26209,Limes,8,833,Monday
+26209,Limes,9,1172,Monday
+26209,Limes,10,1420,Monday
+26209,Limes,11,1496,Monday
+26209,Limes,12,1342,Monday
+26209,Limes,13,1464,Monday
+26209,Limes,14,1509,Monday
+26209,Limes,15,1487,Monday
+26209,Limes,16,1363,Monday
+26209,Limes,17,1186,Monday
+26209,Limes,18,898,Monday
+26209,Limes,19,666,Monday
+26209,Limes,20,481,Monday
+26209,Limes,21,395,Monday
+26209,Limes,22,352,Monday
+26209,Limes,23,193,Monday
+27845,Organic Whole Milk,0,120,Monday
+27845,Organic Whole Milk,1,57,Monday
+27845,Organic Whole Milk,2,23,Monday
+27845,Organic Whole Milk,3,24,Monday
+27845,Organic Whole Milk,4,22,Monday
+27845,Organic Whole Milk,5,56,Monday
+27845,Organic Whole Milk,6,226,Monday
+27845,Organic Whole Milk,7,630,Monday
+27845,Organic Whole Milk,8,1139,Monday
+27845,Organic Whole Milk,9,1452,Monday
+27845,Organic Whole Milk,10,1479,Monday
+27845,Organic Whole Milk,11,1468,Monday
+27845,Organic Whole Milk,12,1358,Monday
+27845,Organic Whole Milk,13,1384,Monday
+27845,Organic Whole Milk,14,1424,Monday
+27845,Organic Whole Milk,15,1419,Monday
+27845,Organic Whole Milk,16,1350,Monday
+27845,Organic Whole Milk,17,1089,Monday
+27845,Organic Whole Milk,18,892,Monday
+27845,Organic Whole Milk,19,790,Monday
+27845,Organic Whole Milk,20,657,Monday
+27845,Organic Whole Milk,21,549,Monday
+27845,Organic Whole Milk,22,391,Monday
+27845,Organic Whole Milk,23,230,Monday
+27966,Organic Raspberries,0,123,Monday
+27966,Organic Raspberries,1,61,Monday
+27966,Organic Raspberries,2,35,Monday
+27966,Organic Raspberries,3,24,Monday
+27966,Organic Raspberries,4,26,Monday
+27966,Organic Raspberries,5,58,Monday
+27966,Organic Raspberries,6,223,Monday
+27966,Organic Raspberries,7,650,Monday
+27966,Organic Raspberries,8,1103,Monday
+27966,Organic Raspberries,9,1480,Monday
+27966,Organic Raspberries,10,1487,Monday
+27966,Organic Raspberries,11,1472,Monday
+27966,Organic Raspberries,12,1354,Monday
+27966,Organic Raspberries,13,1406,Monday
+27966,Organic Raspberries,14,1384,Monday
+27966,Organic Raspberries,15,1431,Monday
+27966,Organic Raspberries,16,1398,Monday
+27966,Organic Raspberries,17,1081,Monday
+27966,Organic Raspberries,18,920,Monday
+27966,Organic Raspberries,19,711,Monday
+27966,Organic Raspberries,20,581,Monday
+27966,Organic Raspberries,21,482,Monday
+27966,Organic Raspberries,22,384,Monday
+27966,Organic Raspberries,23,246,Monday
+28204,Organic Fuji Apple,0,83,Monday
+28204,Organic Fuji Apple,1,36,Monday
+28204,Organic Fuji Apple,2,21,Monday
+28204,Organic Fuji Apple,3,17,Monday
+28204,Organic Fuji Apple,4,7,Monday
+28204,Organic Fuji Apple,5,35,Monday
+28204,Organic Fuji Apple,6,138,Monday
+28204,Organic Fuji Apple,7,364,Monday
+28204,Organic Fuji Apple,8,763,Monday
+28204,Organic Fuji Apple,9,1169,Monday
+28204,Organic Fuji Apple,10,1177,Monday
+28204,Organic Fuji Apple,11,1111,Monday
+28204,Organic Fuji Apple,12,939,Monday
+28204,Organic Fuji Apple,13,953,Monday
+28204,Organic Fuji Apple,14,914,Monday
+28204,Organic Fuji Apple,15,928,Monday
+28204,Organic Fuji Apple,16,915,Monday
+28204,Organic Fuji Apple,17,751,Monday
+28204,Organic Fuji Apple,18,610,Monday
+28204,Organic Fuji Apple,19,466,Monday
+28204,Organic Fuji Apple,20,364,Monday
+28204,Organic Fuji Apple,21,257,Monday
+28204,Organic Fuji Apple,22,210,Monday
+28204,Organic Fuji Apple,23,135,Monday
+39275,Organic Blueberries,0,109,Monday
+39275,Organic Blueberries,1,38,Monday
+39275,Organic Blueberries,2,29,Monday
+39275,Organic Blueberries,3,25,Monday
+39275,Organic Blueberries,4,18,Monday
+39275,Organic Blueberries,5,39,Monday
+39275,Organic Blueberries,6,147,Monday
+39275,Organic Blueberries,7,461,Monday
+39275,Organic Blueberries,8,739,Monday
+39275,Organic Blueberries,9,1043,Monday
+39275,Organic Blueberries,10,1085,Monday
+39275,Organic Blueberries,11,1037,Monday
+39275,Organic Blueberries,12,1025,Monday
+39275,Organic Blueberries,13,1028,Monday
+39275,Organic Blueberries,14,990,Monday
+39275,Organic Blueberries,15,1032,Monday
+39275,Organic Blueberries,16,1042,Monday
+39275,Organic Blueberries,17,867,Monday
+39275,Organic Blueberries,18,673,Monday
+39275,Organic Blueberries,19,568,Monday
+39275,Organic Blueberries,20,468,Monday
+39275,Organic Blueberries,21,407,Monday
+39275,Organic Blueberries,22,287,Monday
+39275,Organic Blueberries,23,191,Monday
+40706,Organic Grape Tomatoes,0,80,Monday
+40706,Organic Grape Tomatoes,1,32,Monday
+40706,Organic Grape Tomatoes,2,32,Monday
+40706,Organic Grape Tomatoes,3,15,Monday
+40706,Organic Grape Tomatoes,4,13,Monday
+40706,Organic Grape Tomatoes,5,40,Monday
+40706,Organic Grape Tomatoes,6,128,Monday
+40706,Organic Grape Tomatoes,7,303,Monday
+40706,Organic Grape Tomatoes,8,502,Monday
+40706,Organic Grape Tomatoes,9,780,Monday
+40706,Organic Grape Tomatoes,10,875,Monday
+40706,Organic Grape Tomatoes,11,829,Monday
+40706,Organic Grape Tomatoes,12,857,Monday
+40706,Organic Grape Tomatoes,13,859,Monday
+40706,Organic Grape Tomatoes,14,871,Monday
+40706,Organic Grape Tomatoes,15,866,Monday
+40706,Organic Grape Tomatoes,16,821,Monday
+40706,Organic Grape Tomatoes,17,703,Monday
+40706,Organic Grape Tomatoes,18,566,Monday
+40706,Organic Grape Tomatoes,19,456,Monday
+40706,Organic Grape Tomatoes,20,353,Monday
+40706,Organic Grape Tomatoes,21,283,Monday
+40706,Organic Grape Tomatoes,22,210,Monday
+40706,Organic Grape Tomatoes,23,116,Monday
+45007,Organic Zucchini,0,98,Monday
+45007,Organic Zucchini,1,33,Monday
+45007,Organic Zucchini,2,26,Monday
+45007,Organic Zucchini,3,27,Monday
+45007,Organic Zucchini,4,17,Monday
+45007,Organic Zucchini,5,44,Monday
+45007,Organic Zucchini,6,157,Monday
+45007,Organic Zucchini,7,375,Monday
+45007,Organic Zucchini,8,669,Monday
+45007,Organic Zucchini,9,930,Monday
+45007,Organic Zucchini,10,1080,Monday
+45007,Organic Zucchini,11,1068,Monday
+45007,Organic Zucchini,12,1080,Monday
+45007,Organic Zucchini,13,1077,Monday
+45007,Organic Zucchini,14,1166,Monday
+45007,Organic Zucchini,15,1080,Monday
+45007,Organic Zucchini,16,1070,Monday
+45007,Organic Zucchini,17,852,Monday
+45007,Organic Zucchini,18,680,Monday
+45007,Organic Zucchini,19,492,Monday
+45007,Organic Zucchini,20,392,Monday
+45007,Organic Zucchini,21,396,Monday
+45007,Organic Zucchini,22,308,Monday
+45007,Organic Zucchini,23,185,Monday
+47209,Organic Hass Avocado,0,233,Monday
+47209,Organic Hass Avocado,1,102,Monday
+47209,Organic Hass Avocado,2,46,Monday
+47209,Organic Hass Avocado,3,49,Monday
+47209,Organic Hass Avocado,4,44,Monday
+47209,Organic Hass Avocado,5,98,Monday
+47209,Organic Hass Avocado,6,302,Monday
+47209,Organic Hass Avocado,7,964,Monday
+47209,Organic Hass Avocado,8,1507,Monday
+47209,Organic Hass Avocado,9,2101,Monday
+47209,Organic Hass Avocado,10,2307,Monday
+47209,Organic Hass Avocado,11,2304,Monday
+47209,Organic Hass Avocado,12,2134,Monday
+47209,Organic Hass Avocado,13,2301,Monday
+47209,Organic Hass Avocado,14,2274,Monday
+47209,Organic Hass Avocado,15,2372,Monday
+47209,Organic Hass Avocado,16,2313,Monday
+47209,Organic Hass Avocado,17,1876,Monday
+47209,Organic Hass Avocado,18,1516,Monday
+47209,Organic Hass Avocado,19,1186,Monday
+47209,Organic Hass Avocado,20,925,Monday
+47209,Organic Hass Avocado,21,709,Monday
+47209,Organic Hass Avocado,22,555,Monday
+47209,Organic Hass Avocado,23,302,Monday
+47626,Large Lemon,0,147,Monday
+47626,Large Lemon,1,75,Monday
+47626,Large Lemon,2,29,Monday
+47626,Large Lemon,3,33,Monday
+47626,Large Lemon,4,29,Monday
+47626,Large Lemon,5,73,Monday
+47626,Large Lemon,6,198,Monday
+47626,Large Lemon,7,570,Monday
+47626,Large Lemon,8,989,Monday
+47626,Large Lemon,9,1398,Monday
+47626,Large Lemon,10,1597,Monday
+47626,Large Lemon,11,1643,Monday
+47626,Large Lemon,12,1646,Monday
+47626,Large Lemon,13,1554,Monday
+47626,Large Lemon,14,1603,Monday
+47626,Large Lemon,15,1604,Monday
+47626,Large Lemon,16,1551,Monday
+47626,Large Lemon,17,1354,Monday
+47626,Large Lemon,18,1081,Monday
+47626,Large Lemon,19,739,Monday
+47626,Large Lemon,20,554,Monday
+47626,Large Lemon,21,462,Monday
+47626,Large Lemon,22,360,Monday
+47626,Large Lemon,23,224,Monday
+47766,Organic Avocado,0,167,Monday
+47766,Organic Avocado,1,82,Monday
+47766,Organic Avocado,2,50,Monday
+47766,Organic Avocado,3,32,Monday
+47766,Organic Avocado,4,31,Monday
+47766,Organic Avocado,5,63,Monday
+47766,Organic Avocado,6,227,Monday
+47766,Organic Avocado,7,652,Monday
+47766,Organic Avocado,8,1116,Monday
+47766,Organic Avocado,9,1588,Monday
+47766,Organic Avocado,10,1744,Monday
+47766,Organic Avocado,11,1779,Monday
+47766,Organic Avocado,12,1769,Monday
+47766,Organic Avocado,13,1782,Monday
+47766,Organic Avocado,14,1843,Monday
+47766,Organic Avocado,15,1864,Monday
+47766,Organic Avocado,16,1814,Monday
+47766,Organic Avocado,17,1583,Monday
+47766,Organic Avocado,18,1318,Monday
+47766,Organic Avocado,19,984,Monday
+47766,Organic Avocado,20,665,Monday
+47766,Organic Avocado,21,511,Monday
+47766,Organic Avocado,22,401,Monday
+47766,Organic Avocado,23,300,Monday
+49683,Cucumber Kirby,0,86,Monday
+49683,Cucumber Kirby,1,49,Monday
+49683,Cucumber Kirby,2,23,Monday
+49683,Cucumber Kirby,3,17,Monday
+49683,Cucumber Kirby,4,18,Monday
+49683,Cucumber Kirby,5,52,Monday
+49683,Cucumber Kirby,6,129,Monday
+49683,Cucumber Kirby,7,347,Monday
+49683,Cucumber Kirby,8,583,Monday
+49683,Cucumber Kirby,9,829,Monday
+49683,Cucumber Kirby,10,975,Monday
+49683,Cucumber Kirby,11,968,Monday
+49683,Cucumber Kirby,12,941,Monday
+49683,Cucumber Kirby,13,932,Monday
+49683,Cucumber Kirby,14,1000,Monday
+49683,Cucumber Kirby,15,979,Monday
+49683,Cucumber Kirby,16,1085,Monday
+49683,Cucumber Kirby,17,843,Monday
+49683,Cucumber Kirby,18,702,Monday
+49683,Cucumber Kirby,19,544,Monday
+49683,Cucumber Kirby,20,424,Monday
+49683,Cucumber Kirby,21,333,Monday
+49683,Cucumber Kirby,22,225,Monday
+49683,Cucumber Kirby,23,173,Monday
+5876,Organic Lemon,0,80,Tuesday
+5876,Organic Lemon,1,31,Tuesday
+5876,Organic Lemon,2,20,Tuesday
+5876,Organic Lemon,3,15,Tuesday
+5876,Organic Lemon,4,23,Tuesday
+5876,Organic Lemon,5,22,Tuesday
+5876,Organic Lemon,6,104,Tuesday
+5876,Organic Lemon,7,280,Tuesday
+5876,Organic Lemon,8,521,Tuesday
+5876,Organic Lemon,9,685,Tuesday
+5876,Organic Lemon,10,841,Tuesday
+5876,Organic Lemon,11,813,Tuesday
+5876,Organic Lemon,12,787,Tuesday
+5876,Organic Lemon,13,837,Tuesday
+5876,Organic Lemon,14,811,Tuesday
+5876,Organic Lemon,15,882,Tuesday
+5876,Organic Lemon,16,866,Tuesday
+5876,Organic Lemon,17,667,Tuesday
+5876,Organic Lemon,18,576,Tuesday
+5876,Organic Lemon,19,402,Tuesday
+5876,Organic Lemon,20,339,Tuesday
+5876,Organic Lemon,21,267,Tuesday
+5876,Organic Lemon,22,244,Tuesday
+5876,Organic Lemon,23,140,Tuesday
+8277,Apple Honeycrisp Organic,0,74,Tuesday
+8277,Apple Honeycrisp Organic,1,31,Tuesday
+8277,Apple Honeycrisp Organic,2,11,Tuesday
+8277,Apple Honeycrisp Organic,3,14,Tuesday
+8277,Apple Honeycrisp Organic,4,17,Tuesday
+8277,Apple Honeycrisp Organic,5,36,Tuesday
+8277,Apple Honeycrisp Organic,6,102,Tuesday
+8277,Apple Honeycrisp Organic,7,334,Tuesday
+8277,Apple Honeycrisp Organic,8,595,Tuesday
+8277,Apple Honeycrisp Organic,9,752,Tuesday
+8277,Apple Honeycrisp Organic,10,777,Tuesday
+8277,Apple Honeycrisp Organic,11,835,Tuesday
+8277,Apple Honeycrisp Organic,12,731,Tuesday
+8277,Apple Honeycrisp Organic,13,744,Tuesday
+8277,Apple Honeycrisp Organic,14,800,Tuesday
+8277,Apple Honeycrisp Organic,15,812,Tuesday
+8277,Apple Honeycrisp Organic,16,781,Tuesday
+8277,Apple Honeycrisp Organic,17,633,Tuesday
+8277,Apple Honeycrisp Organic,18,545,Tuesday
+8277,Apple Honeycrisp Organic,19,388,Tuesday
+8277,Apple Honeycrisp Organic,20,291,Tuesday
+8277,Apple Honeycrisp Organic,21,254,Tuesday
+8277,Apple Honeycrisp Organic,22,221,Tuesday
+8277,Apple Honeycrisp Organic,23,135,Tuesday
+13176,Bag of Organic Bananas,0,351,Tuesday
+13176,Bag of Organic Bananas,1,167,Tuesday
+13176,Bag of Organic Bananas,2,110,Tuesday
+13176,Bag of Organic Bananas,3,71,Tuesday
+13176,Bag of Organic Bananas,4,93,Tuesday
+13176,Bag of Organic Bananas,5,133,Tuesday
+13176,Bag of Organic Bananas,6,508,Tuesday
+13176,Bag of Organic Bananas,7,1525,Tuesday
+13176,Bag of Organic Bananas,8,2627,Tuesday
+13176,Bag of Organic Bananas,9,3590,Tuesday
+13176,Bag of Organic Bananas,10,3776,Tuesday
+13176,Bag of Organic Bananas,11,3709,Tuesday
+13176,Bag of Organic Bananas,12,3514,Tuesday
+13176,Bag of Organic Bananas,13,3653,Tuesday
+13176,Bag of Organic Bananas,14,3705,Tuesday
+13176,Bag of Organic Bananas,15,3803,Tuesday
+13176,Bag of Organic Bananas,16,3580,Tuesday
+13176,Bag of Organic Bananas,17,3128,Tuesday
+13176,Bag of Organic Bananas,18,2529,Tuesday
+13176,Bag of Organic Bananas,19,2073,Tuesday
+13176,Bag of Organic Bananas,20,1555,Tuesday
+13176,Bag of Organic Bananas,21,1280,Tuesday
+13176,Bag of Organic Bananas,22,1061,Tuesday
+13176,Bag of Organic Bananas,23,663,Tuesday
+16797,Strawberries,0,103,Tuesday
+16797,Strawberries,1,53,Tuesday
+16797,Strawberries,2,30,Tuesday
+16797,Strawberries,3,19,Tuesday
+16797,Strawberries,4,31,Tuesday
+16797,Strawberries,5,69,Tuesday
+16797,Strawberries,6,217,Tuesday
+16797,Strawberries,7,589,Tuesday
+16797,Strawberries,8,977,Tuesday
+16797,Strawberries,9,1361,Tuesday
+16797,Strawberries,10,1402,Tuesday
+16797,Strawberries,11,1405,Tuesday
+16797,Strawberries,12,1270,Tuesday
+16797,Strawberries,13,1326,Tuesday
+16797,Strawberries,14,1364,Tuesday
+16797,Strawberries,15,1428,Tuesday
+16797,Strawberries,16,1370,Tuesday
+16797,Strawberries,17,1129,Tuesday
+16797,Strawberries,18,958,Tuesday
+16797,Strawberries,19,760,Tuesday
+16797,Strawberries,20,535,Tuesday
+16797,Strawberries,21,495,Tuesday
+16797,Strawberries,22,419,Tuesday
+16797,Strawberries,23,243,Tuesday
+21137,Organic Strawberries,0,217,Tuesday
+21137,Organic Strawberries,1,101,Tuesday
+21137,Organic Strawberries,2,66,Tuesday
+21137,Organic Strawberries,3,33,Tuesday
+21137,Organic Strawberries,4,41,Tuesday
+21137,Organic Strawberries,5,102,Tuesday
+21137,Organic Strawberries,6,390,Tuesday
+21137,Organic Strawberries,7,1107,Tuesday
+21137,Organic Strawberries,8,1717,Tuesday
+21137,Organic Strawberries,9,2292,Tuesday
+21137,Organic Strawberries,10,2363,Tuesday
+21137,Organic Strawberries,11,2453,Tuesday
+21137,Organic Strawberries,12,2280,Tuesday
+21137,Organic Strawberries,13,2481,Tuesday
+21137,Organic Strawberries,14,2458,Tuesday
+21137,Organic Strawberries,15,2640,Tuesday
+21137,Organic Strawberries,16,2462,Tuesday
+21137,Organic Strawberries,17,2055,Tuesday
+21137,Organic Strawberries,18,1787,Tuesday
+21137,Organic Strawberries,19,1412,Tuesday
+21137,Organic Strawberries,20,1073,Tuesday
+21137,Organic Strawberries,21,935,Tuesday
+21137,Organic Strawberries,22,752,Tuesday
+21137,Organic Strawberries,23,453,Tuesday
+21903,Organic Baby Spinach,0,200,Tuesday
+21903,Organic Baby Spinach,1,115,Tuesday
+21903,Organic Baby Spinach,2,68,Tuesday
+21903,Organic Baby Spinach,3,44,Tuesday
+21903,Organic Baby Spinach,4,46,Tuesday
+21903,Organic Baby Spinach,5,92,Tuesday
+21903,Organic Baby Spinach,6,300,Tuesday
+21903,Organic Baby Spinach,7,825,Tuesday
+21903,Organic Baby Spinach,8,1475,Tuesday
+21903,Organic Baby Spinach,9,1772,Tuesday
+21903,Organic Baby Spinach,10,2132,Tuesday
+21903,Organic Baby Spinach,11,2055,Tuesday
+21903,Organic Baby Spinach,12,2006,Tuesday
+21903,Organic Baby Spinach,13,2180,Tuesday
+21903,Organic Baby Spinach,14,2168,Tuesday
+21903,Organic Baby Spinach,15,2175,Tuesday
+21903,Organic Baby Spinach,16,2058,Tuesday
+21903,Organic Baby Spinach,17,1847,Tuesday
+21903,Organic Baby Spinach,18,1503,Tuesday
+21903,Organic Baby Spinach,19,1167,Tuesday
+21903,Organic Baby Spinach,20,904,Tuesday
+21903,Organic Baby Spinach,21,705,Tuesday
+21903,Organic Baby Spinach,22,635,Tuesday
+21903,Organic Baby Spinach,23,383,Tuesday
+22935,Organic Yellow Onion,0,103,Tuesday
+22935,Organic Yellow Onion,1,46,Tuesday
+22935,Organic Yellow Onion,2,29,Tuesday
+22935,Organic Yellow Onion,3,11,Tuesday
+22935,Organic Yellow Onion,4,20,Tuesday
+22935,Organic Yellow Onion,5,37,Tuesday
+22935,Organic Yellow Onion,6,126,Tuesday
+22935,Organic Yellow Onion,7,352,Tuesday
+22935,Organic Yellow Onion,8,638,Tuesday
+22935,Organic Yellow Onion,9,839,Tuesday
+22935,Organic Yellow Onion,10,1011,Tuesday
+22935,Organic Yellow Onion,11,1080,Tuesday
+22935,Organic Yellow Onion,12,1054,Tuesday
+22935,Organic Yellow Onion,13,1050,Tuesday
+22935,Organic Yellow Onion,14,1053,Tuesday
+22935,Organic Yellow Onion,15,1121,Tuesday
+22935,Organic Yellow Onion,16,1024,Tuesday
+22935,Organic Yellow Onion,17,839,Tuesday
+22935,Organic Yellow Onion,18,628,Tuesday
+22935,Organic Yellow Onion,19,457,Tuesday
+22935,Organic Yellow Onion,20,343,Tuesday
+22935,Organic Yellow Onion,21,343,Tuesday
+22935,Organic Yellow Onion,22,281,Tuesday
+22935,Organic Yellow Onion,23,157,Tuesday
+24852,Banana,0,343,Tuesday
+24852,Banana,1,166,Tuesday
+24852,Banana,2,94,Tuesday
+24852,Banana,3,76,Tuesday
+24852,Banana,4,97,Tuesday
+24852,Banana,5,180,Tuesday
+24852,Banana,6,704,Tuesday
+24852,Banana,7,1811,Tuesday
+24852,Banana,8,3107,Tuesday
+24852,Banana,9,4196,Tuesday
+24852,Banana,10,4605,Tuesday
+24852,Banana,11,4317,Tuesday
+24852,Banana,12,3953,Tuesday
+24852,Banana,13,4170,Tuesday
+24852,Banana,14,4296,Tuesday
+24852,Banana,15,4385,Tuesday
+24852,Banana,16,4440,Tuesday
+24852,Banana,17,3772,Tuesday
+24852,Banana,18,3275,Tuesday
+24852,Banana,19,2468,Tuesday
+24852,Banana,20,1749,Tuesday
+24852,Banana,21,1451,Tuesday
+24852,Banana,22,1065,Tuesday
+24852,Banana,23,614,Tuesday
+24964,Organic Garlic,0,85,Tuesday
+24964,Organic Garlic,1,44,Tuesday
+24964,Organic Garlic,2,23,Tuesday
+24964,Organic Garlic,3,14,Tuesday
+24964,Organic Garlic,4,34,Tuesday
+24964,Organic Garlic,5,34,Tuesday
+24964,Organic Garlic,6,102,Tuesday
+24964,Organic Garlic,7,293,Tuesday
+24964,Organic Garlic,8,540,Tuesday
+24964,Organic Garlic,9,803,Tuesday
+24964,Organic Garlic,10,997,Tuesday
+24964,Organic Garlic,11,981,Tuesday
+24964,Organic Garlic,12,988,Tuesday
+24964,Organic Garlic,13,1023,Tuesday
+24964,Organic Garlic,14,1028,Tuesday
+24964,Organic Garlic,15,1069,Tuesday
+24964,Organic Garlic,16,1027,Tuesday
+24964,Organic Garlic,17,808,Tuesday
+24964,Organic Garlic,18,630,Tuesday
+24964,Organic Garlic,19,468,Tuesday
+24964,Organic Garlic,20,370,Tuesday
+24964,Organic Garlic,21,319,Tuesday
+24964,Organic Garlic,22,266,Tuesday
+24964,Organic Garlic,23,150,Tuesday
+26209,Limes,0,115,Tuesday
+26209,Limes,1,52,Tuesday
+26209,Limes,2,41,Tuesday
+26209,Limes,3,19,Tuesday
+26209,Limes,4,24,Tuesday
+26209,Limes,5,41,Tuesday
+26209,Limes,6,149,Tuesday
+26209,Limes,7,424,Tuesday
+26209,Limes,8,743,Tuesday
+26209,Limes,9,1009,Tuesday
+26209,Limes,10,1206,Tuesday
+26209,Limes,11,1229,Tuesday
+26209,Limes,12,1219,Tuesday
+26209,Limes,13,1281,Tuesday
+26209,Limes,14,1313,Tuesday
+26209,Limes,15,1347,Tuesday
+26209,Limes,16,1292,Tuesday
+26209,Limes,17,1083,Tuesday
+26209,Limes,18,819,Tuesday
+26209,Limes,19,632,Tuesday
+26209,Limes,20,476,Tuesday
+26209,Limes,21,436,Tuesday
+26209,Limes,22,356,Tuesday
+26209,Limes,23,215,Tuesday
+27845,Organic Whole Milk,0,115,Tuesday
+27845,Organic Whole Milk,1,43,Tuesday
+27845,Organic Whole Milk,2,34,Tuesday
+27845,Organic Whole Milk,3,14,Tuesday
+27845,Organic Whole Milk,4,23,Tuesday
+27845,Organic Whole Milk,5,52,Tuesday
+27845,Organic Whole Milk,6,203,Tuesday
+27845,Organic Whole Milk,7,677,Tuesday
+27845,Organic Whole Milk,8,1029,Tuesday
+27845,Organic Whole Milk,9,1275,Tuesday
+27845,Organic Whole Milk,10,1368,Tuesday
+27845,Organic Whole Milk,11,1317,Tuesday
+27845,Organic Whole Milk,12,1224,Tuesday
+27845,Organic Whole Milk,13,1291,Tuesday
+27845,Organic Whole Milk,14,1303,Tuesday
+27845,Organic Whole Milk,15,1371,Tuesday
+27845,Organic Whole Milk,16,1263,Tuesday
+27845,Organic Whole Milk,17,1080,Tuesday
+27845,Organic Whole Milk,18,926,Tuesday
+27845,Organic Whole Milk,19,720,Tuesday
+27845,Organic Whole Milk,20,603,Tuesday
+27845,Organic Whole Milk,21,527,Tuesday
+27845,Organic Whole Milk,22,424,Tuesday
+27845,Organic Whole Milk,23,206,Tuesday
+27966,Organic Raspberries,0,112,Tuesday
+27966,Organic Raspberries,1,53,Tuesday
+27966,Organic Raspberries,2,30,Tuesday
+27966,Organic Raspberries,3,14,Tuesday
+27966,Organic Raspberries,4,22,Tuesday
+27966,Organic Raspberries,5,55,Tuesday
+27966,Organic Raspberries,6,203,Tuesday
+27966,Organic Raspberries,7,601,Tuesday
+27966,Organic Raspberries,8,1035,Tuesday
+27966,Organic Raspberries,9,1278,Tuesday
+27966,Organic Raspberries,10,1336,Tuesday
+27966,Organic Raspberries,11,1301,Tuesday
+27966,Organic Raspberries,12,1183,Tuesday
+27966,Organic Raspberries,13,1268,Tuesday
+27966,Organic Raspberries,14,1223,Tuesday
+27966,Organic Raspberries,15,1354,Tuesday
+27966,Organic Raspberries,16,1299,Tuesday
+27966,Organic Raspberries,17,1126,Tuesday
+27966,Organic Raspberries,18,942,Tuesday
+27966,Organic Raspberries,19,757,Tuesday
+27966,Organic Raspberries,20,586,Tuesday
+27966,Organic Raspberries,21,469,Tuesday
+27966,Organic Raspberries,22,407,Tuesday
+27966,Organic Raspberries,23,231,Tuesday
+28204,Organic Fuji Apple,0,60,Tuesday
+28204,Organic Fuji Apple,1,28,Tuesday
+28204,Organic Fuji Apple,2,24,Tuesday
+28204,Organic Fuji Apple,3,12,Tuesday
+28204,Organic Fuji Apple,4,14,Tuesday
+28204,Organic Fuji Apple,5,29,Tuesday
+28204,Organic Fuji Apple,6,97,Tuesday
+28204,Organic Fuji Apple,7,351,Tuesday
+28204,Organic Fuji Apple,8,613,Tuesday
+28204,Organic Fuji Apple,9,952,Tuesday
+28204,Organic Fuji Apple,10,966,Tuesday
+28204,Organic Fuji Apple,11,835,Tuesday
+28204,Organic Fuji Apple,12,754,Tuesday
+28204,Organic Fuji Apple,13,764,Tuesday
+28204,Organic Fuji Apple,14,748,Tuesday
+28204,Organic Fuji Apple,15,765,Tuesday
+28204,Organic Fuji Apple,16,774,Tuesday
+28204,Organic Fuji Apple,17,740,Tuesday
+28204,Organic Fuji Apple,18,583,Tuesday
+28204,Organic Fuji Apple,19,454,Tuesday
+28204,Organic Fuji Apple,20,346,Tuesday
+28204,Organic Fuji Apple,21,262,Tuesday
+28204,Organic Fuji Apple,22,201,Tuesday
+28204,Organic Fuji Apple,23,103,Tuesday
+39275,Organic Blueberries,0,89,Tuesday
+39275,Organic Blueberries,1,41,Tuesday
+39275,Organic Blueberries,2,35,Tuesday
+39275,Organic Blueberries,3,21,Tuesday
+39275,Organic Blueberries,4,15,Tuesday
+39275,Organic Blueberries,5,45,Tuesday
+39275,Organic Blueberries,6,139,Tuesday
+39275,Organic Blueberries,7,402,Tuesday
+39275,Organic Blueberries,8,688,Tuesday
+39275,Organic Blueberries,9,975,Tuesday
+39275,Organic Blueberries,10,947,Tuesday
+39275,Organic Blueberries,11,910,Tuesday
+39275,Organic Blueberries,12,911,Tuesday
+39275,Organic Blueberries,13,932,Tuesday
+39275,Organic Blueberries,14,932,Tuesday
+39275,Organic Blueberries,15,948,Tuesday
+39275,Organic Blueberries,16,899,Tuesday
+39275,Organic Blueberries,17,732,Tuesday
+39275,Organic Blueberries,18,712,Tuesday
+39275,Organic Blueberries,19,551,Tuesday
+39275,Organic Blueberries,20,448,Tuesday
+39275,Organic Blueberries,21,390,Tuesday
+39275,Organic Blueberries,22,305,Tuesday
+39275,Organic Blueberries,23,208,Tuesday
+40706,Organic Grape Tomatoes,0,66,Tuesday
+40706,Organic Grape Tomatoes,1,28,Tuesday
+40706,Organic Grape Tomatoes,2,21,Tuesday
+40706,Organic Grape Tomatoes,3,11,Tuesday
+40706,Organic Grape Tomatoes,4,16,Tuesday
+40706,Organic Grape Tomatoes,5,25,Tuesday
+40706,Organic Grape Tomatoes,6,100,Tuesday
+40706,Organic Grape Tomatoes,7,287,Tuesday
+40706,Organic Grape Tomatoes,8,458,Tuesday
+40706,Organic Grape Tomatoes,9,604,Tuesday
+40706,Organic Grape Tomatoes,10,684,Tuesday
+40706,Organic Grape Tomatoes,11,670,Tuesday
+40706,Organic Grape Tomatoes,12,694,Tuesday
+40706,Organic Grape Tomatoes,13,714,Tuesday
+40706,Organic Grape Tomatoes,14,735,Tuesday
+40706,Organic Grape Tomatoes,15,762,Tuesday
+40706,Organic Grape Tomatoes,16,706,Tuesday
+40706,Organic Grape Tomatoes,17,597,Tuesday
+40706,Organic Grape Tomatoes,18,496,Tuesday
+40706,Organic Grape Tomatoes,19,385,Tuesday
+40706,Organic Grape Tomatoes,20,284,Tuesday
+40706,Organic Grape Tomatoes,21,285,Tuesday
+40706,Organic Grape Tomatoes,22,229,Tuesday
+40706,Organic Grape Tomatoes,23,125,Tuesday
+45007,Organic Zucchini,0,102,Tuesday
+45007,Organic Zucchini,1,39,Tuesday
+45007,Organic Zucchini,2,27,Tuesday
+45007,Organic Zucchini,3,19,Tuesday
+45007,Organic Zucchini,4,23,Tuesday
+45007,Organic Zucchini,5,41,Tuesday
+45007,Organic Zucchini,6,132,Tuesday
+45007,Organic Zucchini,7,342,Tuesday
+45007,Organic Zucchini,8,569,Tuesday
+45007,Organic Zucchini,9,732,Tuesday
+45007,Organic Zucchini,10,837,Tuesday
+45007,Organic Zucchini,11,993,Tuesday
+45007,Organic Zucchini,12,926,Tuesday
+45007,Organic Zucchini,13,1008,Tuesday
+45007,Organic Zucchini,14,945,Tuesday
+45007,Organic Zucchini,15,1016,Tuesday
+45007,Organic Zucchini,16,880,Tuesday
+45007,Organic Zucchini,17,733,Tuesday
+45007,Organic Zucchini,18,594,Tuesday
+45007,Organic Zucchini,19,492,Tuesday
+45007,Organic Zucchini,20,402,Tuesday
+45007,Organic Zucchini,21,357,Tuesday
+45007,Organic Zucchini,22,267,Tuesday
+45007,Organic Zucchini,23,176,Tuesday
+47209,Organic Hass Avocado,0,161,Tuesday
+47209,Organic Hass Avocado,1,90,Tuesday
+47209,Organic Hass Avocado,2,57,Tuesday
+47209,Organic Hass Avocado,3,33,Tuesday
+47209,Organic Hass Avocado,4,40,Tuesday
+47209,Organic Hass Avocado,5,74,Tuesday
+47209,Organic Hass Avocado,6,251,Tuesday
+47209,Organic Hass Avocado,7,806,Tuesday
+47209,Organic Hass Avocado,8,1393,Tuesday
+47209,Organic Hass Avocado,9,1726,Tuesday
+47209,Organic Hass Avocado,10,1893,Tuesday
+47209,Organic Hass Avocado,11,2015,Tuesday
+47209,Organic Hass Avocado,12,1875,Tuesday
+47209,Organic Hass Avocado,13,1951,Tuesday
+47209,Organic Hass Avocado,14,2006,Tuesday
+47209,Organic Hass Avocado,15,2222,Tuesday
+47209,Organic Hass Avocado,16,2017,Tuesday
+47209,Organic Hass Avocado,17,1810,Tuesday
+47209,Organic Hass Avocado,18,1359,Tuesday
+47209,Organic Hass Avocado,19,1038,Tuesday
+47209,Organic Hass Avocado,20,868,Tuesday
+47209,Organic Hass Avocado,21,709,Tuesday
+47209,Organic Hass Avocado,22,560,Tuesday
+47209,Organic Hass Avocado,23,333,Tuesday
+47626,Large Lemon,0,128,Tuesday
+47626,Large Lemon,1,55,Tuesday
+47626,Large Lemon,2,48,Tuesday
+47626,Large Lemon,3,26,Tuesday
+47626,Large Lemon,4,32,Tuesday
+47626,Large Lemon,5,55,Tuesday
+47626,Large Lemon,6,159,Tuesday
+47626,Large Lemon,7,471,Tuesday
+47626,Large Lemon,8,868,Tuesday
+47626,Large Lemon,9,1180,Tuesday
+47626,Large Lemon,10,1334,Tuesday
+47626,Large Lemon,11,1443,Tuesday
+47626,Large Lemon,12,1339,Tuesday
+47626,Large Lemon,13,1395,Tuesday
+47626,Large Lemon,14,1341,Tuesday
+47626,Large Lemon,15,1455,Tuesday
+47626,Large Lemon,16,1340,Tuesday
+47626,Large Lemon,17,1146,Tuesday
+47626,Large Lemon,18,900,Tuesday
+47626,Large Lemon,19,707,Tuesday
+47626,Large Lemon,20,509,Tuesday
+47626,Large Lemon,21,447,Tuesday
+47626,Large Lemon,22,371,Tuesday
+47626,Large Lemon,23,218,Tuesday
+47766,Organic Avocado,0,133,Tuesday
+47766,Organic Avocado,1,65,Tuesday
+47766,Organic Avocado,2,37,Tuesday
+47766,Organic Avocado,3,25,Tuesday
+47766,Organic Avocado,4,36,Tuesday
+47766,Organic Avocado,5,53,Tuesday
+47766,Organic Avocado,6,214,Tuesday
+47766,Organic Avocado,7,588,Tuesday
+47766,Organic Avocado,8,992,Tuesday
+47766,Organic Avocado,9,1308,Tuesday
+47766,Organic Avocado,10,1563,Tuesday
+47766,Organic Avocado,11,1561,Tuesday
+47766,Organic Avocado,12,1448,Tuesday
+47766,Organic Avocado,13,1557,Tuesday
+47766,Organic Avocado,14,1571,Tuesday
+47766,Organic Avocado,15,1546,Tuesday
+47766,Organic Avocado,16,1625,Tuesday
+47766,Organic Avocado,17,1420,Tuesday
+47766,Organic Avocado,18,1144,Tuesday
+47766,Organic Avocado,19,951,Tuesday
+47766,Organic Avocado,20,606,Tuesday
+47766,Organic Avocado,21,530,Tuesday
+47766,Organic Avocado,22,405,Tuesday
+47766,Organic Avocado,23,251,Tuesday
+49683,Cucumber Kirby,0,98,Tuesday
+49683,Cucumber Kirby,1,41,Tuesday
+49683,Cucumber Kirby,2,25,Tuesday
+49683,Cucumber Kirby,3,17,Tuesday
+49683,Cucumber Kirby,4,21,Tuesday
+49683,Cucumber Kirby,5,45,Tuesday
+49683,Cucumber Kirby,6,122,Tuesday
+49683,Cucumber Kirby,7,311,Tuesday
+49683,Cucumber Kirby,8,533,Tuesday
+49683,Cucumber Kirby,9,659,Tuesday
+49683,Cucumber Kirby,10,812,Tuesday
+49683,Cucumber Kirby,11,818,Tuesday
+49683,Cucumber Kirby,12,832,Tuesday
+49683,Cucumber Kirby,13,841,Tuesday
+49683,Cucumber Kirby,14,826,Tuesday
+49683,Cucumber Kirby,15,867,Tuesday
+49683,Cucumber Kirby,16,887,Tuesday
+49683,Cucumber Kirby,17,774,Tuesday
+49683,Cucumber Kirby,18,619,Tuesday
+49683,Cucumber Kirby,19,483,Tuesday
+49683,Cucumber Kirby,20,337,Tuesday
+49683,Cucumber Kirby,21,307,Tuesday
+49683,Cucumber Kirby,22,246,Tuesday
+49683,Cucumber Kirby,23,146,Tuesday
+5876,Organic Lemon,0,53,Wednesday
+5876,Organic Lemon,1,40,Wednesday
+5876,Organic Lemon,2,18,Wednesday
+5876,Organic Lemon,3,14,Wednesday
+5876,Organic Lemon,4,20,Wednesday
+5876,Organic Lemon,5,28,Wednesday
+5876,Organic Lemon,6,98,Wednesday
+5876,Organic Lemon,7,305,Wednesday
+5876,Organic Lemon,8,468,Wednesday
+5876,Organic Lemon,9,655,Wednesday
+5876,Organic Lemon,10,713,Wednesday
+5876,Organic Lemon,11,839,Wednesday
+5876,Organic Lemon,12,773,Wednesday
+5876,Organic Lemon,13,813,Wednesday
+5876,Organic Lemon,14,757,Wednesday
+5876,Organic Lemon,15,764,Wednesday
+5876,Organic Lemon,16,773,Wednesday
+5876,Organic Lemon,17,672,Wednesday
+5876,Organic Lemon,18,531,Wednesday
+5876,Organic Lemon,19,440,Wednesday
+5876,Organic Lemon,20,343,Wednesday
+5876,Organic Lemon,21,287,Wednesday
+5876,Organic Lemon,22,267,Wednesday
+5876,Organic Lemon,23,140,Wednesday
+8277,Apple Honeycrisp Organic,0,61,Wednesday
+8277,Apple Honeycrisp Organic,1,26,Wednesday
+8277,Apple Honeycrisp Organic,2,23,Wednesday
+8277,Apple Honeycrisp Organic,3,12,Wednesday
+8277,Apple Honeycrisp Organic,4,14,Wednesday
+8277,Apple Honeycrisp Organic,5,32,Wednesday
+8277,Apple Honeycrisp Organic,6,116,Wednesday
+8277,Apple Honeycrisp Organic,7,352,Wednesday
+8277,Apple Honeycrisp Organic,8,492,Wednesday
+8277,Apple Honeycrisp Organic,9,691,Wednesday
+8277,Apple Honeycrisp Organic,10,755,Wednesday
+8277,Apple Honeycrisp Organic,11,744,Wednesday
+8277,Apple Honeycrisp Organic,12,697,Wednesday
+8277,Apple Honeycrisp Organic,13,744,Wednesday
+8277,Apple Honeycrisp Organic,14,746,Wednesday
+8277,Apple Honeycrisp Organic,15,715,Wednesday
+8277,Apple Honeycrisp Organic,16,733,Wednesday
+8277,Apple Honeycrisp Organic,17,571,Wednesday
+8277,Apple Honeycrisp Organic,18,479,Wednesday
+8277,Apple Honeycrisp Organic,19,405,Wednesday
+8277,Apple Honeycrisp Organic,20,331,Wednesday
+8277,Apple Honeycrisp Organic,21,260,Wednesday
+8277,Apple Honeycrisp Organic,22,244,Wednesday
+8277,Apple Honeycrisp Organic,23,135,Wednesday
+13176,Bag of Organic Bananas,0,320,Wednesday
+13176,Bag of Organic Bananas,1,181,Wednesday
+13176,Bag of Organic Bananas,2,93,Wednesday
+13176,Bag of Organic Bananas,3,75,Wednesday
+13176,Bag of Organic Bananas,4,97,Wednesday
+13176,Bag of Organic Bananas,5,151,Wednesday
+13176,Bag of Organic Bananas,6,504,Wednesday
+13176,Bag of Organic Bananas,7,1602,Wednesday
+13176,Bag of Organic Bananas,8,2597,Wednesday
+13176,Bag of Organic Bananas,9,3513,Wednesday
+13176,Bag of Organic Bananas,10,3716,Wednesday
+13176,Bag of Organic Bananas,11,3453,Wednesday
+13176,Bag of Organic Bananas,12,3416,Wednesday
+13176,Bag of Organic Bananas,13,3533,Wednesday
+13176,Bag of Organic Bananas,14,3479,Wednesday
+13176,Bag of Organic Bananas,15,3644,Wednesday
+13176,Bag of Organic Bananas,16,3679,Wednesday
+13176,Bag of Organic Bananas,17,2975,Wednesday
+13176,Bag of Organic Bananas,18,2496,Wednesday
+13176,Bag of Organic Bananas,19,2018,Wednesday
+13176,Bag of Organic Bananas,20,1674,Wednesday
+13176,Bag of Organic Bananas,21,1309,Wednesday
+13176,Bag of Organic Bananas,22,1155,Wednesday
+13176,Bag of Organic Bananas,23,678,Wednesday
+16797,Strawberries,0,103,Wednesday
+16797,Strawberries,1,50,Wednesday
+16797,Strawberries,2,33,Wednesday
+16797,Strawberries,3,20,Wednesday
+16797,Strawberries,4,33,Wednesday
+16797,Strawberries,5,77,Wednesday
+16797,Strawberries,6,212,Wednesday
+16797,Strawberries,7,613,Wednesday
+16797,Strawberries,8,1027,Wednesday
+16797,Strawberries,9,1298,Wednesday
+16797,Strawberries,10,1440,Wednesday
+16797,Strawberries,11,1402,Wednesday
+16797,Strawberries,12,1277,Wednesday
+16797,Strawberries,13,1293,Wednesday
+16797,Strawberries,14,1404,Wednesday
+16797,Strawberries,15,1322,Wednesday
+16797,Strawberries,16,1327,Wednesday
+16797,Strawberries,17,1202,Wednesday
+16797,Strawberries,18,958,Wednesday
+16797,Strawberries,19,742,Wednesday
+16797,Strawberries,20,650,Wednesday
+16797,Strawberries,21,543,Wednesday
+16797,Strawberries,22,467,Wednesday
+16797,Strawberries,23,278,Wednesday
+21137,Organic Strawberries,0,216,Wednesday
+21137,Organic Strawberries,1,104,Wednesday
+21137,Organic Strawberries,2,55,Wednesday
+21137,Organic Strawberries,3,36,Wednesday
+21137,Organic Strawberries,4,56,Wednesday
+21137,Organic Strawberries,5,84,Wednesday
+21137,Organic Strawberries,6,418,Wednesday
+21137,Organic Strawberries,7,1163,Wednesday
+21137,Organic Strawberries,8,1786,Wednesday
+21137,Organic Strawberries,9,2278,Wednesday
+21137,Organic Strawberries,10,2448,Wednesday
+21137,Organic Strawberries,11,2376,Wednesday
+21137,Organic Strawberries,12,2272,Wednesday
+21137,Organic Strawberries,13,2491,Wednesday
+21137,Organic Strawberries,14,2394,Wednesday
+21137,Organic Strawberries,15,2385,Wednesday
+21137,Organic Strawberries,16,2488,Wednesday
+21137,Organic Strawberries,17,2004,Wednesday
+21137,Organic Strawberries,18,1754,Wednesday
+21137,Organic Strawberries,19,1487,Wednesday
+21137,Organic Strawberries,20,1212,Wednesday
+21137,Organic Strawberries,21,1036,Wednesday
+21137,Organic Strawberries,22,845,Wednesday
+21137,Organic Strawberries,23,498,Wednesday
+21903,Organic Baby Spinach,0,193,Wednesday
+21903,Organic Baby Spinach,1,105,Wednesday
+21903,Organic Baby Spinach,2,64,Wednesday
+21903,Organic Baby Spinach,3,42,Wednesday
+21903,Organic Baby Spinach,4,47,Wednesday
+21903,Organic Baby Spinach,5,86,Wednesday
+21903,Organic Baby Spinach,6,293,Wednesday
+21903,Organic Baby Spinach,7,922,Wednesday
+21903,Organic Baby Spinach,8,1410,Wednesday
+21903,Organic Baby Spinach,9,1820,Wednesday
+21903,Organic Baby Spinach,10,1908,Wednesday
+21903,Organic Baby Spinach,11,1973,Wednesday
+21903,Organic Baby Spinach,12,1998,Wednesday
+21903,Organic Baby Spinach,13,2029,Wednesday
+21903,Organic Baby Spinach,14,1969,Wednesday
+21903,Organic Baby Spinach,15,2082,Wednesday
+21903,Organic Baby Spinach,16,2010,Wednesday
+21903,Organic Baby Spinach,17,1761,Wednesday
+21903,Organic Baby Spinach,18,1424,Wednesday
+21903,Organic Baby Spinach,19,1184,Wednesday
+21903,Organic Baby Spinach,20,980,Wednesday
+21903,Organic Baby Spinach,21,851,Wednesday
+21903,Organic Baby Spinach,22,708,Wednesday
+21903,Organic Baby Spinach,23,431,Wednesday
+22935,Organic Yellow Onion,0,83,Wednesday
+22935,Organic Yellow Onion,1,53,Wednesday
+22935,Organic Yellow Onion,2,31,Wednesday
+22935,Organic Yellow Onion,3,17,Wednesday
+22935,Organic Yellow Onion,4,24,Wednesday
+22935,Organic Yellow Onion,5,34,Wednesday
+22935,Organic Yellow Onion,6,103,Wednesday
+22935,Organic Yellow Onion,7,359,Wednesday
+22935,Organic Yellow Onion,8,589,Wednesday
+22935,Organic Yellow Onion,9,805,Wednesday
+22935,Organic Yellow Onion,10,910,Wednesday
+22935,Organic Yellow Onion,11,999,Wednesday
+22935,Organic Yellow Onion,12,949,Wednesday
+22935,Organic Yellow Onion,13,952,Wednesday
+22935,Organic Yellow Onion,14,992,Wednesday
+22935,Organic Yellow Onion,15,1011,Wednesday
+22935,Organic Yellow Onion,16,1011,Wednesday
+22935,Organic Yellow Onion,17,743,Wednesday
+22935,Organic Yellow Onion,18,578,Wednesday
+22935,Organic Yellow Onion,19,522,Wednesday
+22935,Organic Yellow Onion,20,395,Wednesday
+22935,Organic Yellow Onion,21,398,Wednesday
+22935,Organic Yellow Onion,22,327,Wednesday
+22935,Organic Yellow Onion,23,163,Wednesday
+24852,Banana,0,318,Wednesday
+24852,Banana,1,151,Wednesday
+24852,Banana,2,97,Wednesday
+24852,Banana,3,73,Wednesday
+24852,Banana,4,97,Wednesday
+24852,Banana,5,181,Wednesday
+24852,Banana,6,625,Wednesday
+24852,Banana,7,1845,Wednesday
+24852,Banana,8,3060,Wednesday
+24852,Banana,9,4058,Wednesday
+24852,Banana,10,4421,Wednesday
+24852,Banana,11,4112,Wednesday
+24852,Banana,12,3858,Wednesday
+24852,Banana,13,4060,Wednesday
+24852,Banana,14,4135,Wednesday
+24852,Banana,15,4217,Wednesday
+24852,Banana,16,4293,Wednesday
+24852,Banana,17,3679,Wednesday
+24852,Banana,18,3058,Wednesday
+24852,Banana,19,2534,Wednesday
+24852,Banana,20,1985,Wednesday
+24852,Banana,21,1645,Wednesday
+24852,Banana,22,1250,Wednesday
+24852,Banana,23,695,Wednesday
+24964,Organic Garlic,0,90,Wednesday
+24964,Organic Garlic,1,53,Wednesday
+24964,Organic Garlic,2,37,Wednesday
+24964,Organic Garlic,3,23,Wednesday
+24964,Organic Garlic,4,15,Wednesday
+24964,Organic Garlic,5,31,Wednesday
+24964,Organic Garlic,6,117,Wednesday
+24964,Organic Garlic,7,315,Wednesday
+24964,Organic Garlic,8,572,Wednesday
+24964,Organic Garlic,9,771,Wednesday
+24964,Organic Garlic,10,885,Wednesday
+24964,Organic Garlic,11,958,Wednesday
+24964,Organic Garlic,12,933,Wednesday
+24964,Organic Garlic,13,920,Wednesday
+24964,Organic Garlic,14,976,Wednesday
+24964,Organic Garlic,15,957,Wednesday
+24964,Organic Garlic,16,964,Wednesday
+24964,Organic Garlic,17,774,Wednesday
+24964,Organic Garlic,18,634,Wednesday
+24964,Organic Garlic,19,527,Wednesday
+24964,Organic Garlic,20,360,Wednesday
+24964,Organic Garlic,21,379,Wednesday
+24964,Organic Garlic,22,336,Wednesday
+24964,Organic Garlic,23,213,Wednesday
+26209,Limes,0,79,Wednesday
+26209,Limes,1,54,Wednesday
+26209,Limes,2,30,Wednesday
+26209,Limes,3,22,Wednesday
+26209,Limes,4,30,Wednesday
+26209,Limes,5,49,Wednesday
+26209,Limes,6,164,Wednesday
+26209,Limes,7,414,Wednesday
+26209,Limes,8,765,Wednesday
+26209,Limes,9,1033,Wednesday
+26209,Limes,10,1215,Wednesday
+26209,Limes,11,1302,Wednesday
+26209,Limes,12,1271,Wednesday
+26209,Limes,13,1263,Wednesday
+26209,Limes,14,1299,Wednesday
+26209,Limes,15,1316,Wednesday
+26209,Limes,16,1287,Wednesday
+26209,Limes,17,1019,Wednesday
+26209,Limes,18,836,Wednesday
+26209,Limes,19,761,Wednesday
+26209,Limes,20,508,Wednesday
+26209,Limes,21,481,Wednesday
+26209,Limes,22,423,Wednesday
+26209,Limes,23,253,Wednesday
+27845,Organic Whole Milk,0,105,Wednesday
+27845,Organic Whole Milk,1,42,Wednesday
+27845,Organic Whole Milk,2,36,Wednesday
+27845,Organic Whole Milk,3,19,Wednesday
+27845,Organic Whole Milk,4,22,Wednesday
+27845,Organic Whole Milk,5,55,Wednesday
+27845,Organic Whole Milk,6,197,Wednesday
+27845,Organic Whole Milk,7,707,Wednesday
+27845,Organic Whole Milk,8,1047,Wednesday
+27845,Organic Whole Milk,9,1212,Wednesday
+27845,Organic Whole Milk,10,1312,Wednesday
+27845,Organic Whole Milk,11,1253,Wednesday
+27845,Organic Whole Milk,12,1196,Wednesday
+27845,Organic Whole Milk,13,1259,Wednesday
+27845,Organic Whole Milk,14,1405,Wednesday
+27845,Organic Whole Milk,15,1402,Wednesday
+27845,Organic Whole Milk,16,1260,Wednesday
+27845,Organic Whole Milk,17,1009,Wednesday
+27845,Organic Whole Milk,18,920,Wednesday
+27845,Organic Whole Milk,19,740,Wednesday
+27845,Organic Whole Milk,20,689,Wednesday
+27845,Organic Whole Milk,21,535,Wednesday
+27845,Organic Whole Milk,22,497,Wednesday
+27845,Organic Whole Milk,23,267,Wednesday
+27966,Organic Raspberries,0,113,Wednesday
+27966,Organic Raspberries,1,49,Wednesday
+27966,Organic Raspberries,2,24,Wednesday
+27966,Organic Raspberries,3,25,Wednesday
+27966,Organic Raspberries,4,27,Wednesday
+27966,Organic Raspberries,5,42,Wednesday
+27966,Organic Raspberries,6,201,Wednesday
+27966,Organic Raspberries,7,647,Wednesday
+27966,Organic Raspberries,8,979,Wednesday
+27966,Organic Raspberries,9,1264,Wednesday
+27966,Organic Raspberries,10,1367,Wednesday
+27966,Organic Raspberries,11,1172,Wednesday
+27966,Organic Raspberries,12,1176,Wednesday
+27966,Organic Raspberries,13,1221,Wednesday
+27966,Organic Raspberries,14,1230,Wednesday
+27966,Organic Raspberries,15,1254,Wednesday
+27966,Organic Raspberries,16,1284,Wednesday
+27966,Organic Raspberries,17,1056,Wednesday
+27966,Organic Raspberries,18,846,Wednesday
+27966,Organic Raspberries,19,713,Wednesday
+27966,Organic Raspberries,20,639,Wednesday
+27966,Organic Raspberries,21,573,Wednesday
+27966,Organic Raspberries,22,476,Wednesday
+27966,Organic Raspberries,23,250,Wednesday
+28204,Organic Fuji Apple,0,56,Wednesday
+28204,Organic Fuji Apple,1,27,Wednesday
+28204,Organic Fuji Apple,2,18,Wednesday
+28204,Organic Fuji Apple,3,18,Wednesday
+28204,Organic Fuji Apple,4,17,Wednesday
+28204,Organic Fuji Apple,5,19,Wednesday
+28204,Organic Fuji Apple,6,115,Wednesday
+28204,Organic Fuji Apple,7,351,Wednesday
+28204,Organic Fuji Apple,8,588,Wednesday
+28204,Organic Fuji Apple,9,893,Wednesday
+28204,Organic Fuji Apple,10,925,Wednesday
+28204,Organic Fuji Apple,11,753,Wednesday
+28204,Organic Fuji Apple,12,712,Wednesday
+28204,Organic Fuji Apple,13,739,Wednesday
+28204,Organic Fuji Apple,14,735,Wednesday
+28204,Organic Fuji Apple,15,758,Wednesday
+28204,Organic Fuji Apple,16,770,Wednesday
+28204,Organic Fuji Apple,17,669,Wednesday
+28204,Organic Fuji Apple,18,554,Wednesday
+28204,Organic Fuji Apple,19,429,Wednesday
+28204,Organic Fuji Apple,20,331,Wednesday
+28204,Organic Fuji Apple,21,271,Wednesday
+28204,Organic Fuji Apple,22,222,Wednesday
+28204,Organic Fuji Apple,23,141,Wednesday
+39275,Organic Blueberries,0,81,Wednesday
+39275,Organic Blueberries,1,43,Wednesday
+39275,Organic Blueberries,2,22,Wednesday
+39275,Organic Blueberries,3,23,Wednesday
+39275,Organic Blueberries,4,14,Wednesday
+39275,Organic Blueberries,5,49,Wednesday
+39275,Organic Blueberries,6,164,Wednesday
+39275,Organic Blueberries,7,437,Wednesday
+39275,Organic Blueberries,8,692,Wednesday
+39275,Organic Blueberries,9,881,Wednesday
+39275,Organic Blueberries,10,972,Wednesday
+39275,Organic Blueberries,11,873,Wednesday
+39275,Organic Blueberries,12,864,Wednesday
+39275,Organic Blueberries,13,936,Wednesday
+39275,Organic Blueberries,14,931,Wednesday
+39275,Organic Blueberries,15,876,Wednesday
+39275,Organic Blueberries,16,943,Wednesday
+39275,Organic Blueberries,17,769,Wednesday
+39275,Organic Blueberries,18,664,Wednesday
+39275,Organic Blueberries,19,541,Wednesday
+39275,Organic Blueberries,20,482,Wednesday
+39275,Organic Blueberries,21,423,Wednesday
+39275,Organic Blueberries,22,338,Wednesday
+39275,Organic Blueberries,23,244,Wednesday
+40706,Organic Grape Tomatoes,0,80,Wednesday
+40706,Organic Grape Tomatoes,1,43,Wednesday
+40706,Organic Grape Tomatoes,2,23,Wednesday
+40706,Organic Grape Tomatoes,3,11,Wednesday
+40706,Organic Grape Tomatoes,4,8,Wednesday
+40706,Organic Grape Tomatoes,5,23,Wednesday
+40706,Organic Grape Tomatoes,6,81,Wednesday
+40706,Organic Grape Tomatoes,7,283,Wednesday
+40706,Organic Grape Tomatoes,8,468,Wednesday
+40706,Organic Grape Tomatoes,9,627,Wednesday
+40706,Organic Grape Tomatoes,10,702,Wednesday
+40706,Organic Grape Tomatoes,11,660,Wednesday
+40706,Organic Grape Tomatoes,12,642,Wednesday
+40706,Organic Grape Tomatoes,13,642,Wednesday
+40706,Organic Grape Tomatoes,14,699,Wednesday
+40706,Organic Grape Tomatoes,15,733,Wednesday
+40706,Organic Grape Tomatoes,16,737,Wednesday
+40706,Organic Grape Tomatoes,17,599,Wednesday
+40706,Organic Grape Tomatoes,18,528,Wednesday
+40706,Organic Grape Tomatoes,19,422,Wednesday
+40706,Organic Grape Tomatoes,20,377,Wednesday
+40706,Organic Grape Tomatoes,21,342,Wednesday
+40706,Organic Grape Tomatoes,22,282,Wednesday
+40706,Organic Grape Tomatoes,23,142,Wednesday
+45007,Organic Zucchini,0,85,Wednesday
+45007,Organic Zucchini,1,49,Wednesday
+45007,Organic Zucchini,2,32,Wednesday
+45007,Organic Zucchini,3,25,Wednesday
+45007,Organic Zucchini,4,20,Wednesday
+45007,Organic Zucchini,5,42,Wednesday
+45007,Organic Zucchini,6,113,Wednesday
+45007,Organic Zucchini,7,331,Wednesday
+45007,Organic Zucchini,8,569,Wednesday
+45007,Organic Zucchini,9,791,Wednesday
+45007,Organic Zucchini,10,841,Wednesday
+45007,Organic Zucchini,11,863,Wednesday
+45007,Organic Zucchini,12,842,Wednesday
+45007,Organic Zucchini,13,838,Wednesday
+45007,Organic Zucchini,14,862,Wednesday
+45007,Organic Zucchini,15,900,Wednesday
+45007,Organic Zucchini,16,887,Wednesday
+45007,Organic Zucchini,17,768,Wednesday
+45007,Organic Zucchini,18,617,Wednesday
+45007,Organic Zucchini,19,467,Wednesday
+45007,Organic Zucchini,20,409,Wednesday
+45007,Organic Zucchini,21,391,Wednesday
+45007,Organic Zucchini,22,307,Wednesday
+45007,Organic Zucchini,23,205,Wednesday
+47209,Organic Hass Avocado,0,162,Wednesday
+47209,Organic Hass Avocado,1,83,Wednesday
+47209,Organic Hass Avocado,2,47,Wednesday
+47209,Organic Hass Avocado,3,43,Wednesday
+47209,Organic Hass Avocado,4,45,Wednesday
+47209,Organic Hass Avocado,5,78,Wednesday
+47209,Organic Hass Avocado,6,303,Wednesday
+47209,Organic Hass Avocado,7,858,Wednesday
+47209,Organic Hass Avocado,8,1378,Wednesday
+47209,Organic Hass Avocado,9,1667,Wednesday
+47209,Organic Hass Avocado,10,1962,Wednesday
+47209,Organic Hass Avocado,11,1906,Wednesday
+47209,Organic Hass Avocado,12,1873,Wednesday
+47209,Organic Hass Avocado,13,1917,Wednesday
+47209,Organic Hass Avocado,14,1881,Wednesday
+47209,Organic Hass Avocado,15,2021,Wednesday
+47209,Organic Hass Avocado,16,1934,Wednesday
+47209,Organic Hass Avocado,17,1611,Wednesday
+47209,Organic Hass Avocado,18,1367,Wednesday
+47209,Organic Hass Avocado,19,1108,Wednesday
+47209,Organic Hass Avocado,20,947,Wednesday
+47209,Organic Hass Avocado,21,712,Wednesday
+47209,Organic Hass Avocado,22,623,Wednesday
+47209,Organic Hass Avocado,23,371,Wednesday
+47626,Large Lemon,0,98,Wednesday
+47626,Large Lemon,1,50,Wednesday
+47626,Large Lemon,2,34,Wednesday
+47626,Large Lemon,3,24,Wednesday
+47626,Large Lemon,4,28,Wednesday
+47626,Large Lemon,5,55,Wednesday
+47626,Large Lemon,6,167,Wednesday
+47626,Large Lemon,7,482,Wednesday
+47626,Large Lemon,8,843,Wednesday
+47626,Large Lemon,9,1166,Wednesday
+47626,Large Lemon,10,1375,Wednesday
+47626,Large Lemon,11,1325,Wednesday
+47626,Large Lemon,12,1290,Wednesday
+47626,Large Lemon,13,1278,Wednesday
+47626,Large Lemon,14,1347,Wednesday
+47626,Large Lemon,15,1395,Wednesday
+47626,Large Lemon,16,1371,Wednesday
+47626,Large Lemon,17,1184,Wednesday
+47626,Large Lemon,18,890,Wednesday
+47626,Large Lemon,19,733,Wednesday
+47626,Large Lemon,20,526,Wednesday
+47626,Large Lemon,21,550,Wednesday
+47626,Large Lemon,22,464,Wednesday
+47626,Large Lemon,23,249,Wednesday
+47766,Organic Avocado,0,128,Wednesday
+47766,Organic Avocado,1,69,Wednesday
+47766,Organic Avocado,2,42,Wednesday
+47766,Organic Avocado,3,38,Wednesday
+47766,Organic Avocado,4,21,Wednesday
+47766,Organic Avocado,5,59,Wednesday
+47766,Organic Avocado,6,213,Wednesday
+47766,Organic Avocado,7,583,Wednesday
+47766,Organic Avocado,8,937,Wednesday
+47766,Organic Avocado,9,1305,Wednesday
+47766,Organic Avocado,10,1451,Wednesday
+47766,Organic Avocado,11,1456,Wednesday
+47766,Organic Avocado,12,1432,Wednesday
+47766,Organic Avocado,13,1530,Wednesday
+47766,Organic Avocado,14,1506,Wednesday
+47766,Organic Avocado,15,1513,Wednesday
+47766,Organic Avocado,16,1581,Wednesday
+47766,Organic Avocado,17,1309,Wednesday
+47766,Organic Avocado,18,1108,Wednesday
+47766,Organic Avocado,19,947,Wednesday
+47766,Organic Avocado,20,639,Wednesday
+47766,Organic Avocado,21,555,Wednesday
+47766,Organic Avocado,22,473,Wednesday
+47766,Organic Avocado,23,291,Wednesday
+49683,Cucumber Kirby,0,81,Wednesday
+49683,Cucumber Kirby,1,41,Wednesday
+49683,Cucumber Kirby,2,29,Wednesday
+49683,Cucumber Kirby,3,18,Wednesday
+49683,Cucumber Kirby,4,27,Wednesday
+49683,Cucumber Kirby,5,44,Wednesday
+49683,Cucumber Kirby,6,127,Wednesday
+49683,Cucumber Kirby,7,323,Wednesday
+49683,Cucumber Kirby,8,491,Wednesday
+49683,Cucumber Kirby,9,733,Wednesday
+49683,Cucumber Kirby,10,774,Wednesday
+49683,Cucumber Kirby,11,777,Wednesday
+49683,Cucumber Kirby,12,780,Wednesday
+49683,Cucumber Kirby,13,776,Wednesday
+49683,Cucumber Kirby,14,798,Wednesday
+49683,Cucumber Kirby,15,746,Wednesday
+49683,Cucumber Kirby,16,826,Wednesday
+49683,Cucumber Kirby,17,740,Wednesday
+49683,Cucumber Kirby,18,567,Wednesday
+49683,Cucumber Kirby,19,537,Wednesday
+49683,Cucumber Kirby,20,375,Wednesday
+49683,Cucumber Kirby,21,322,Wednesday
+49683,Cucumber Kirby,22,300,Wednesday
+49683,Cucumber Kirby,23,153,Wednesday
+5876,Organic Lemon,0,90,Thursday
+5876,Organic Lemon,1,51,Thursday
+5876,Organic Lemon,2,25,Thursday
+5876,Organic Lemon,3,23,Thursday
+5876,Organic Lemon,4,25,Thursday
+5876,Organic Lemon,5,38,Thursday
+5876,Organic Lemon,6,120,Thursday
+5876,Organic Lemon,7,314,Thursday
+5876,Organic Lemon,8,623,Thursday
+5876,Organic Lemon,9,861,Thursday
+5876,Organic Lemon,10,949,Thursday
+5876,Organic Lemon,11,985,Thursday
+5876,Organic Lemon,12,973,Thursday
+5876,Organic Lemon,13,924,Thursday
+5876,Organic Lemon,14,958,Thursday
+5876,Organic Lemon,15,913,Thursday
+5876,Organic Lemon,16,897,Thursday
+5876,Organic Lemon,17,741,Thursday
+5876,Organic Lemon,18,601,Thursday
+5876,Organic Lemon,19,453,Thursday
+5876,Organic Lemon,20,355,Thursday
+5876,Organic Lemon,21,242,Thursday
+5876,Organic Lemon,22,206,Thursday
+5876,Organic Lemon,23,164,Thursday
+8277,Apple Honeycrisp Organic,0,74,Thursday
+8277,Apple Honeycrisp Organic,1,37,Thursday
+8277,Apple Honeycrisp Organic,2,16,Thursday
+8277,Apple Honeycrisp Organic,3,12,Thursday
+8277,Apple Honeycrisp Organic,4,22,Thursday
+8277,Apple Honeycrisp Organic,5,40,Thursday
+8277,Apple Honeycrisp Organic,6,127,Thursday
+8277,Apple Honeycrisp Organic,7,374,Thursday
+8277,Apple Honeycrisp Organic,8,646,Thursday
+8277,Apple Honeycrisp Organic,9,910,Thursday
+8277,Apple Honeycrisp Organic,10,937,Thursday
+8277,Apple Honeycrisp Organic,11,903,Thursday
+8277,Apple Honeycrisp Organic,12,869,Thursday
+8277,Apple Honeycrisp Organic,13,823,Thursday
+8277,Apple Honeycrisp Organic,14,863,Thursday
+8277,Apple Honeycrisp Organic,15,907,Thursday
+8277,Apple Honeycrisp Organic,16,835,Thursday
+8277,Apple Honeycrisp Organic,17,618,Thursday
+8277,Apple Honeycrisp Organic,18,474,Thursday
+8277,Apple Honeycrisp Organic,19,400,Thursday
+8277,Apple Honeycrisp Organic,20,294,Thursday
+8277,Apple Honeycrisp Organic,21,244,Thursday
+8277,Apple Honeycrisp Organic,22,228,Thursday
+8277,Apple Honeycrisp Organic,23,122,Thursday
+13176,Bag of Organic Bananas,0,359,Thursday
+13176,Bag of Organic Bananas,1,198,Thursday
+13176,Bag of Organic Bananas,2,113,Thursday
+13176,Bag of Organic Bananas,3,100,Thursday
+13176,Bag of Organic Bananas,4,92,Thursday
+13176,Bag of Organic Bananas,5,147,Thursday
+13176,Bag of Organic Bananas,6,570,Thursday
+13176,Bag of Organic Bananas,7,1712,Thursday
+13176,Bag of Organic Bananas,8,2840,Thursday
+13176,Bag of Organic Bananas,9,3936,Thursday
+13176,Bag of Organic Bananas,10,4129,Thursday
+13176,Bag of Organic Bananas,11,4199,Thursday
+13176,Bag of Organic Bananas,12,3906,Thursday
+13176,Bag of Organic Bananas,13,3913,Thursday
+13176,Bag of Organic Bananas,14,4284,Thursday
+13176,Bag of Organic Bananas,15,4129,Thursday
+13176,Bag of Organic Bananas,16,4035,Thursday
+13176,Bag of Organic Bananas,17,3219,Thursday
+13176,Bag of Organic Bananas,18,2553,Thursday
+13176,Bag of Organic Bananas,19,1937,Thursday
+13176,Bag of Organic Bananas,20,1455,Thursday
+13176,Bag of Organic Bananas,21,1134,Thursday
+13176,Bag of Organic Bananas,22,953,Thursday
+13176,Bag of Organic Bananas,23,632,Thursday
+16797,Strawberries,0,132,Thursday
+16797,Strawberries,1,53,Thursday
+16797,Strawberries,2,41,Thursday
+16797,Strawberries,3,37,Thursday
+16797,Strawberries,4,31,Thursday
+16797,Strawberries,5,81,Thursday
+16797,Strawberries,6,240,Thursday
+16797,Strawberries,7,658,Thursday
+16797,Strawberries,8,1175,Thursday
+16797,Strawberries,9,1509,Thursday
+16797,Strawberries,10,1673,Thursday
+16797,Strawberries,11,1644,Thursday
+16797,Strawberries,12,1569,Thursday
+16797,Strawberries,13,1545,Thursday
+16797,Strawberries,14,1623,Thursday
+16797,Strawberries,15,1564,Thursday
+16797,Strawberries,16,1493,Thursday
+16797,Strawberries,17,1161,Thursday
+16797,Strawberries,18,924,Thursday
+16797,Strawberries,19,738,Thursday
+16797,Strawberries,20,577,Thursday
+16797,Strawberries,21,444,Thursday
+16797,Strawberries,22,377,Thursday
+16797,Strawberries,23,266,Thursday
+21137,Organic Strawberries,0,254,Thursday
+21137,Organic Strawberries,1,111,Thursday
+21137,Organic Strawberries,2,47,Thursday
+21137,Organic Strawberries,3,50,Thursday
+21137,Organic Strawberries,4,67,Thursday
+21137,Organic Strawberries,5,130,Thursday
+21137,Organic Strawberries,6,442,Thursday
+21137,Organic Strawberries,7,1380,Thursday
+21137,Organic Strawberries,8,2102,Thursday
+21137,Organic Strawberries,9,2686,Thursday
+21137,Organic Strawberries,10,2819,Thursday
+21137,Organic Strawberries,11,2889,Thursday
+21137,Organic Strawberries,12,2697,Thursday
+21137,Organic Strawberries,13,2831,Thursday
+21137,Organic Strawberries,14,2897,Thursday
+21137,Organic Strawberries,15,2849,Thursday
+21137,Organic Strawberries,16,2663,Thursday
+21137,Organic Strawberries,17,2184,Thursday
+21137,Organic Strawberries,18,1742,Thursday
+21137,Organic Strawberries,19,1387,Thursday
+21137,Organic Strawberries,20,1132,Thursday
+21137,Organic Strawberries,21,932,Thursday
+21137,Organic Strawberries,22,778,Thursday
+21137,Organic Strawberries,23,465,Thursday
+21903,Organic Baby Spinach,0,245,Thursday
+21903,Organic Baby Spinach,1,118,Thursday
+21903,Organic Baby Spinach,2,67,Thursday
+21903,Organic Baby Spinach,3,59,Thursday
+21903,Organic Baby Spinach,4,75,Thursday
+21903,Organic Baby Spinach,5,107,Thursday
+21903,Organic Baby Spinach,6,336,Thursday
+21903,Organic Baby Spinach,7,984,Thursday
+21903,Organic Baby Spinach,8,1626,Thursday
+21903,Organic Baby Spinach,9,2113,Thursday
+21903,Organic Baby Spinach,10,2265,Thursday
+21903,Organic Baby Spinach,11,2402,Thursday
+21903,Organic Baby Spinach,12,2270,Thursday
+21903,Organic Baby Spinach,13,2245,Thursday
+21903,Organic Baby Spinach,14,2363,Thursday
+21903,Organic Baby Spinach,15,2294,Thursday
+21903,Organic Baby Spinach,16,2274,Thursday
+21903,Organic Baby Spinach,17,1874,Thursday
+21903,Organic Baby Spinach,18,1639,Thursday
+21903,Organic Baby Spinach,19,1241,Thursday
+21903,Organic Baby Spinach,20,966,Thursday
+21903,Organic Baby Spinach,21,785,Thursday
+21903,Organic Baby Spinach,22,706,Thursday
+21903,Organic Baby Spinach,23,435,Thursday
+22935,Organic Yellow Onion,0,74,Thursday
+22935,Organic Yellow Onion,1,37,Thursday
+22935,Organic Yellow Onion,2,24,Thursday
+22935,Organic Yellow Onion,3,30,Thursday
+22935,Organic Yellow Onion,4,25,Thursday
+22935,Organic Yellow Onion,5,53,Thursday
+22935,Organic Yellow Onion,6,173,Thursday
+22935,Organic Yellow Onion,7,394,Thursday
+22935,Organic Yellow Onion,8,679,Thursday
+22935,Organic Yellow Onion,9,1001,Thursday
+22935,Organic Yellow Onion,10,1078,Thursday
+22935,Organic Yellow Onion,11,1148,Thursday
+22935,Organic Yellow Onion,12,1143,Thursday
+22935,Organic Yellow Onion,13,1112,Thursday
+22935,Organic Yellow Onion,14,1110,Thursday
+22935,Organic Yellow Onion,15,1064,Thursday
+22935,Organic Yellow Onion,16,1023,Thursday
+22935,Organic Yellow Onion,17,774,Thursday
+22935,Organic Yellow Onion,18,643,Thursday
+22935,Organic Yellow Onion,19,486,Thursday
+22935,Organic Yellow Onion,20,397,Thursday
+22935,Organic Yellow Onion,21,328,Thursday
+22935,Organic Yellow Onion,22,285,Thursday
+22935,Organic Yellow Onion,23,175,Thursday
+24852,Banana,0,376,Thursday
+24852,Banana,1,177,Thursday
+24852,Banana,2,109,Thursday
+24852,Banana,3,90,Thursday
+24852,Banana,4,124,Thursday
+24852,Banana,5,231,Thursday
+24852,Banana,6,733,Thursday
+24852,Banana,7,2102,Thursday
+24852,Banana,8,3508,Thursday
+24852,Banana,9,4767,Thursday
+24852,Banana,10,5122,Thursday
+24852,Banana,11,4938,Thursday
+24852,Banana,12,4602,Thursday
+24852,Banana,13,4682,Thursday
+24852,Banana,14,4969,Thursday
+24852,Banana,15,5007,Thursday
+24852,Banana,16,4735,Thursday
+24852,Banana,17,3932,Thursday
+24852,Banana,18,3154,Thursday
+24852,Banana,19,2505,Thursday
+24852,Banana,20,1934,Thursday
+24852,Banana,21,1555,Thursday
+24852,Banana,22,1163,Thursday
+24852,Banana,23,766,Thursday
+24964,Organic Garlic,0,101,Thursday
+24964,Organic Garlic,1,49,Thursday
+24964,Organic Garlic,2,35,Thursday
+24964,Organic Garlic,3,21,Thursday
+24964,Organic Garlic,4,29,Thursday
+24964,Organic Garlic,5,45,Thursday
+24964,Organic Garlic,6,145,Thursday
+24964,Organic Garlic,7,363,Thursday
+24964,Organic Garlic,8,643,Thursday
+24964,Organic Garlic,9,946,Thursday
+24964,Organic Garlic,10,1088,Thursday
+24964,Organic Garlic,11,1067,Thursday
+24964,Organic Garlic,12,1091,Thursday
+24964,Organic Garlic,13,1099,Thursday
+24964,Organic Garlic,14,1195,Thursday
+24964,Organic Garlic,15,1071,Thursday
+24964,Organic Garlic,16,1049,Thursday
+24964,Organic Garlic,17,859,Thursday
+24964,Organic Garlic,18,705,Thursday
+24964,Organic Garlic,19,540,Thursday
+24964,Organic Garlic,20,372,Thursday
+24964,Organic Garlic,21,382,Thursday
+24964,Organic Garlic,22,334,Thursday
+24964,Organic Garlic,23,198,Thursday
+26209,Limes,0,135,Thursday
+26209,Limes,1,65,Thursday
+26209,Limes,2,39,Thursday
+26209,Limes,3,31,Thursday
+26209,Limes,4,42,Thursday
+26209,Limes,5,70,Thursday
+26209,Limes,6,198,Thursday
+26209,Limes,7,576,Thursday
+26209,Limes,8,910,Thursday
+26209,Limes,9,1353,Thursday
+26209,Limes,10,1546,Thursday
+26209,Limes,11,1576,Thursday
+26209,Limes,12,1634,Thursday
+26209,Limes,13,1503,Thursday
+26209,Limes,14,1499,Thursday
+26209,Limes,15,1591,Thursday
+26209,Limes,16,1517,Thursday
+26209,Limes,17,1280,Thursday
+26209,Limes,18,1020,Thursday
+26209,Limes,19,687,Thursday
+26209,Limes,20,538,Thursday
+26209,Limes,21,437,Thursday
+26209,Limes,22,374,Thursday
+26209,Limes,23,265,Thursday
+27845,Organic Whole Milk,0,117,Thursday
+27845,Organic Whole Milk,1,71,Thursday
+27845,Organic Whole Milk,2,22,Thursday
+27845,Organic Whole Milk,3,20,Thursday
+27845,Organic Whole Milk,4,30,Thursday
+27845,Organic Whole Milk,5,53,Thursday
+27845,Organic Whole Milk,6,266,Thursday
+27845,Organic Whole Milk,7,742,Thursday
+27845,Organic Whole Milk,8,1188,Thursday
+27845,Organic Whole Milk,9,1442,Thursday
+27845,Organic Whole Milk,10,1465,Thursday
+27845,Organic Whole Milk,11,1472,Thursday
+27845,Organic Whole Milk,12,1416,Thursday
+27845,Organic Whole Milk,13,1486,Thursday
+27845,Organic Whole Milk,14,1553,Thursday
+27845,Organic Whole Milk,15,1435,Thursday
+27845,Organic Whole Milk,16,1375,Thursday
+27845,Organic Whole Milk,17,1152,Thursday
+27845,Organic Whole Milk,18,888,Thursday
+27845,Organic Whole Milk,19,695,Thursday
+27845,Organic Whole Milk,20,650,Thursday
+27845,Organic Whole Milk,21,552,Thursday
+27845,Organic Whole Milk,22,416,Thursday
+27845,Organic Whole Milk,23,251,Thursday
+27966,Organic Raspberries,0,132,Thursday
+27966,Organic Raspberries,1,68,Thursday
+27966,Organic Raspberries,2,28,Thursday
+27966,Organic Raspberries,3,30,Thursday
+27966,Organic Raspberries,4,29,Thursday
+27966,Organic Raspberries,5,62,Thursday
+27966,Organic Raspberries,6,231,Thursday
+27966,Organic Raspberries,7,728,Thursday
+27966,Organic Raspberries,8,1143,Thursday
+27966,Organic Raspberries,9,1482,Thursday
+27966,Organic Raspberries,10,1504,Thursday
+27966,Organic Raspberries,11,1560,Thursday
+27966,Organic Raspberries,12,1434,Thursday
+27966,Organic Raspberries,13,1398,Thursday
+27966,Organic Raspberries,14,1569,Thursday
+27966,Organic Raspberries,15,1524,Thursday
+27966,Organic Raspberries,16,1445,Thursday
+27966,Organic Raspberries,17,1180,Thursday
+27966,Organic Raspberries,18,898,Thursday
+27966,Organic Raspberries,19,734,Thursday
+27966,Organic Raspberries,20,562,Thursday
+27966,Organic Raspberries,21,471,Thursday
+27966,Organic Raspberries,22,382,Thursday
+27966,Organic Raspberries,23,221,Thursday
+28204,Organic Fuji Apple,0,65,Thursday
+28204,Organic Fuji Apple,1,30,Thursday
+28204,Organic Fuji Apple,2,15,Thursday
+28204,Organic Fuji Apple,3,17,Thursday
+28204,Organic Fuji Apple,4,26,Thursday
+28204,Organic Fuji Apple,5,40,Thursday
+28204,Organic Fuji Apple,6,111,Thursday
+28204,Organic Fuji Apple,7,361,Thursday
+28204,Organic Fuji Apple,8,639,Thursday
+28204,Organic Fuji Apple,9,952,Thursday
+28204,Organic Fuji Apple,10,1105,Thursday
+28204,Organic Fuji Apple,11,1032,Thursday
+28204,Organic Fuji Apple,12,962,Thursday
+28204,Organic Fuji Apple,13,979,Thursday
+28204,Organic Fuji Apple,14,1034,Thursday
+28204,Organic Fuji Apple,15,1059,Thursday
+28204,Organic Fuji Apple,16,1008,Thursday
+28204,Organic Fuji Apple,17,765,Thursday
+28204,Organic Fuji Apple,18,535,Thursday
+28204,Organic Fuji Apple,19,425,Thursday
+28204,Organic Fuji Apple,20,346,Thursday
+28204,Organic Fuji Apple,21,283,Thursday
+28204,Organic Fuji Apple,22,196,Thursday
+28204,Organic Fuji Apple,23,127,Thursday
+39275,Organic Blueberries,0,103,Thursday
+39275,Organic Blueberries,1,49,Thursday
+39275,Organic Blueberries,2,23,Thursday
+39275,Organic Blueberries,3,24,Thursday
+39275,Organic Blueberries,4,23,Thursday
+39275,Organic Blueberries,5,45,Thursday
+39275,Organic Blueberries,6,182,Thursday
+39275,Organic Blueberries,7,504,Thursday
+39275,Organic Blueberries,8,843,Thursday
+39275,Organic Blueberries,9,1043,Thursday
+39275,Organic Blueberries,10,1164,Thursday
+39275,Organic Blueberries,11,1143,Thursday
+39275,Organic Blueberries,12,1035,Thursday
+39275,Organic Blueberries,13,1087,Thursday
+39275,Organic Blueberries,14,1074,Thursday
+39275,Organic Blueberries,15,1112,Thursday
+39275,Organic Blueberries,16,1052,Thursday
+39275,Organic Blueberries,17,846,Thursday
+39275,Organic Blueberries,18,759,Thursday
+39275,Organic Blueberries,19,563,Thursday
+39275,Organic Blueberries,20,444,Thursday
+39275,Organic Blueberries,21,380,Thursday
+39275,Organic Blueberries,22,302,Thursday
+39275,Organic Blueberries,23,198,Thursday
+40706,Organic Grape Tomatoes,0,75,Thursday
+40706,Organic Grape Tomatoes,1,49,Thursday
+40706,Organic Grape Tomatoes,2,23,Thursday
+40706,Organic Grape Tomatoes,3,16,Thursday
+40706,Organic Grape Tomatoes,4,22,Thursday
+40706,Organic Grape Tomatoes,5,28,Thursday
+40706,Organic Grape Tomatoes,6,145,Thursday
+40706,Organic Grape Tomatoes,7,331,Thursday
+40706,Organic Grape Tomatoes,8,523,Thursday
+40706,Organic Grape Tomatoes,9,742,Thursday
+40706,Organic Grape Tomatoes,10,820,Thursday
+40706,Organic Grape Tomatoes,11,856,Thursday
+40706,Organic Grape Tomatoes,12,781,Thursday
+40706,Organic Grape Tomatoes,13,814,Thursday
+40706,Organic Grape Tomatoes,14,827,Thursday
+40706,Organic Grape Tomatoes,15,811,Thursday
+40706,Organic Grape Tomatoes,16,768,Thursday
+40706,Organic Grape Tomatoes,17,651,Thursday
+40706,Organic Grape Tomatoes,18,554,Thursday
+40706,Organic Grape Tomatoes,19,408,Thursday
+40706,Organic Grape Tomatoes,20,336,Thursday
+40706,Organic Grape Tomatoes,21,317,Thursday
+40706,Organic Grape Tomatoes,22,253,Thursday
+40706,Organic Grape Tomatoes,23,143,Thursday
+45007,Organic Zucchini,0,95,Thursday
+45007,Organic Zucchini,1,51,Thursday
+45007,Organic Zucchini,2,17,Thursday
+45007,Organic Zucchini,3,24,Thursday
+45007,Organic Zucchini,4,31,Thursday
+45007,Organic Zucchini,5,32,Thursday
+45007,Organic Zucchini,6,146,Thursday
+45007,Organic Zucchini,7,396,Thursday
+45007,Organic Zucchini,8,674,Thursday
+45007,Organic Zucchini,9,926,Thursday
+45007,Organic Zucchini,10,954,Thursday
+45007,Organic Zucchini,11,1026,Thursday
+45007,Organic Zucchini,12,977,Thursday
+45007,Organic Zucchini,13,962,Thursday
+45007,Organic Zucchini,14,952,Thursday
+45007,Organic Zucchini,15,1005,Thursday
+45007,Organic Zucchini,16,917,Thursday
+45007,Organic Zucchini,17,770,Thursday
+45007,Organic Zucchini,18,682,Thursday
+45007,Organic Zucchini,19,467,Thursday
+45007,Organic Zucchini,20,421,Thursday
+45007,Organic Zucchini,21,382,Thursday
+45007,Organic Zucchini,22,309,Thursday
+45007,Organic Zucchini,23,215,Thursday
+47209,Organic Hass Avocado,0,179,Thursday
+47209,Organic Hass Avocado,1,85,Thursday
+47209,Organic Hass Avocado,2,52,Thursday
+47209,Organic Hass Avocado,3,50,Thursday
+47209,Organic Hass Avocado,4,51,Thursday
+47209,Organic Hass Avocado,5,109,Thursday
+47209,Organic Hass Avocado,6,288,Thursday
+47209,Organic Hass Avocado,7,903,Thursday
+47209,Organic Hass Avocado,8,1568,Thursday
+47209,Organic Hass Avocado,9,2029,Thursday
+47209,Organic Hass Avocado,10,2171,Thursday
+47209,Organic Hass Avocado,11,2162,Thursday
+47209,Organic Hass Avocado,12,2115,Thursday
+47209,Organic Hass Avocado,13,2017,Thursday
+47209,Organic Hass Avocado,14,2198,Thursday
+47209,Organic Hass Avocado,15,2241,Thursday
+47209,Organic Hass Avocado,16,2129,Thursday
+47209,Organic Hass Avocado,17,1788,Thursday
+47209,Organic Hass Avocado,18,1476,Thursday
+47209,Organic Hass Avocado,19,1155,Thursday
+47209,Organic Hass Avocado,20,808,Thursday
+47209,Organic Hass Avocado,21,625,Thursday
+47209,Organic Hass Avocado,22,527,Thursday
+47209,Organic Hass Avocado,23,356,Thursday
+47626,Large Lemon,0,134,Thursday
+47626,Large Lemon,1,65,Thursday
+47626,Large Lemon,2,53,Thursday
+47626,Large Lemon,3,31,Thursday
+47626,Large Lemon,4,50,Thursday
+47626,Large Lemon,5,68,Thursday
+47626,Large Lemon,6,226,Thursday
+47626,Large Lemon,7,573,Thursday
+47626,Large Lemon,8,1024,Thursday
+47626,Large Lemon,9,1394,Thursday
+47626,Large Lemon,10,1659,Thursday
+47626,Large Lemon,11,1678,Thursday
+47626,Large Lemon,12,1615,Thursday
+47626,Large Lemon,13,1598,Thursday
+47626,Large Lemon,14,1703,Thursday
+47626,Large Lemon,15,1679,Thursday
+47626,Large Lemon,16,1557,Thursday
+47626,Large Lemon,17,1350,Thursday
+47626,Large Lemon,18,1036,Thursday
+47626,Large Lemon,19,698,Thursday
+47626,Large Lemon,20,563,Thursday
+47626,Large Lemon,21,455,Thursday
+47626,Large Lemon,22,403,Thursday
+47626,Large Lemon,23,265,Thursday
+47766,Organic Avocado,0,156,Thursday
+47766,Organic Avocado,1,82,Thursday
+47766,Organic Avocado,2,43,Thursday
+47766,Organic Avocado,3,27,Thursday
+47766,Organic Avocado,4,51,Thursday
+47766,Organic Avocado,5,71,Thursday
+47766,Organic Avocado,6,225,Thursday
+47766,Organic Avocado,7,705,Thursday
+47766,Organic Avocado,8,1205,Thursday
+47766,Organic Avocado,9,1503,Thursday
+47766,Organic Avocado,10,1724,Thursday
+47766,Organic Avocado,11,1815,Thursday
+47766,Organic Avocado,12,1686,Thursday
+47766,Organic Avocado,13,1730,Thursday
+47766,Organic Avocado,14,1740,Thursday
+47766,Organic Avocado,15,1758,Thursday
+47766,Organic Avocado,16,1669,Thursday
+47766,Organic Avocado,17,1322,Thursday
+47766,Organic Avocado,18,1152,Thursday
+47766,Organic Avocado,19,893,Thursday
+47766,Organic Avocado,20,684,Thursday
+47766,Organic Avocado,21,547,Thursday
+47766,Organic Avocado,22,449,Thursday
+47766,Organic Avocado,23,306,Thursday
+49683,Cucumber Kirby,0,82,Thursday
+49683,Cucumber Kirby,1,41,Thursday
+49683,Cucumber Kirby,2,23,Thursday
+49683,Cucumber Kirby,3,21,Thursday
+49683,Cucumber Kirby,4,22,Thursday
+49683,Cucumber Kirby,5,42,Thursday
+49683,Cucumber Kirby,6,146,Thursday
+49683,Cucumber Kirby,7,326,Thursday
+49683,Cucumber Kirby,8,576,Thursday
+49683,Cucumber Kirby,9,804,Thursday
+49683,Cucumber Kirby,10,893,Thursday
+49683,Cucumber Kirby,11,960,Thursday
+49683,Cucumber Kirby,12,945,Thursday
+49683,Cucumber Kirby,13,905,Thursday
+49683,Cucumber Kirby,14,941,Thursday
+49683,Cucumber Kirby,15,884,Thursday
+49683,Cucumber Kirby,16,896,Thursday
+49683,Cucumber Kirby,17,743,Thursday
+49683,Cucumber Kirby,18,651,Thursday
+49683,Cucumber Kirby,19,457,Thursday
+49683,Cucumber Kirby,20,381,Thursday
+49683,Cucumber Kirby,21,294,Thursday
+49683,Cucumber Kirby,22,258,Thursday
+49683,Cucumber Kirby,23,183,Thursday
+5876,Organic Lemon,0,107,Friday
+5876,Organic Lemon,1,49,Friday
+5876,Organic Lemon,2,31,Friday
+5876,Organic Lemon,3,22,Friday
+5876,Organic Lemon,4,28,Friday
+5876,Organic Lemon,5,42,Friday
+5876,Organic Lemon,6,84,Friday
+5876,Organic Lemon,7,311,Friday
+5876,Organic Lemon,8,685,Friday
+5876,Organic Lemon,9,923,Friday
+5876,Organic Lemon,10,1007,Friday
+5876,Organic Lemon,11,1073,Friday
+5876,Organic Lemon,12,1025,Friday
+5876,Organic Lemon,13,1058,Friday
+5876,Organic Lemon,14,1139,Friday
+5876,Organic Lemon,15,1097,Friday
+5876,Organic Lemon,16,1033,Friday
+5876,Organic Lemon,17,825,Friday
+5876,Organic Lemon,18,703,Friday
+5876,Organic Lemon,19,534,Friday
+5876,Organic Lemon,20,365,Friday
+5876,Organic Lemon,21,295,Friday
+5876,Organic Lemon,22,258,Friday
+5876,Organic Lemon,23,191,Friday
+8277,Apple Honeycrisp Organic,0,82,Friday
+8277,Apple Honeycrisp Organic,1,39,Friday
+8277,Apple Honeycrisp Organic,2,22,Friday
+8277,Apple Honeycrisp Organic,3,20,Friday
+8277,Apple Honeycrisp Organic,4,19,Friday
+8277,Apple Honeycrisp Organic,5,35,Friday
+8277,Apple Honeycrisp Organic,6,97,Friday
+8277,Apple Honeycrisp Organic,7,369,Friday
+8277,Apple Honeycrisp Organic,8,712,Friday
+8277,Apple Honeycrisp Organic,9,808,Friday
+8277,Apple Honeycrisp Organic,10,923,Friday
+8277,Apple Honeycrisp Organic,11,927,Friday
+8277,Apple Honeycrisp Organic,12,888,Friday
+8277,Apple Honeycrisp Organic,13,939,Friday
+8277,Apple Honeycrisp Organic,14,1030,Friday
+8277,Apple Honeycrisp Organic,15,1038,Friday
+8277,Apple Honeycrisp Organic,16,892,Friday
+8277,Apple Honeycrisp Organic,17,739,Friday
+8277,Apple Honeycrisp Organic,18,579,Friday
+8277,Apple Honeycrisp Organic,19,396,Friday
+8277,Apple Honeycrisp Organic,20,346,Friday
+8277,Apple Honeycrisp Organic,21,340,Friday
+8277,Apple Honeycrisp Organic,22,292,Friday
+8277,Apple Honeycrisp Organic,23,170,Friday
+13176,Bag of Organic Bananas,0,394,Friday
+13176,Bag of Organic Bananas,1,222,Friday
+13176,Bag of Organic Bananas,2,141,Friday
+13176,Bag of Organic Bananas,3,78,Friday
+13176,Bag of Organic Bananas,4,93,Friday
+13176,Bag of Organic Bananas,5,137,Friday
+13176,Bag of Organic Bananas,6,421,Friday
+13176,Bag of Organic Bananas,7,1573,Friday
+13176,Bag of Organic Bananas,8,3051,Friday
+13176,Bag of Organic Bananas,9,3893,Friday
+13176,Bag of Organic Bananas,10,4009,Friday
+13176,Bag of Organic Bananas,11,4116,Friday
+13176,Bag of Organic Bananas,12,4047,Friday
+13176,Bag of Organic Bananas,13,4078,Friday
+13176,Bag of Organic Bananas,14,4354,Friday
+13176,Bag of Organic Bananas,15,4289,Friday
+13176,Bag of Organic Bananas,16,4031,Friday
+13176,Bag of Organic Bananas,17,3264,Friday
+13176,Bag of Organic Bananas,18,2619,Friday
+13176,Bag of Organic Bananas,19,2016,Friday
+13176,Bag of Organic Bananas,20,1509,Friday
+13176,Bag of Organic Bananas,21,1291,Friday
+13176,Bag of Organic Bananas,22,1081,Friday
+13176,Bag of Organic Bananas,23,736,Friday
+16797,Strawberries,0,147,Friday
+16797,Strawberries,1,72,Friday
+16797,Strawberries,2,46,Friday
+16797,Strawberries,3,32,Friday
+16797,Strawberries,4,43,Friday
+16797,Strawberries,5,38,Friday
+16797,Strawberries,6,170,Friday
+16797,Strawberries,7,593,Friday
+16797,Strawberries,8,1233,Friday
+16797,Strawberries,9,1528,Friday
+16797,Strawberries,10,1666,Friday
+16797,Strawberries,11,1625,Friday
+16797,Strawberries,12,1591,Friday
+16797,Strawberries,13,1620,Friday
+16797,Strawberries,14,1696,Friday
+16797,Strawberries,15,1671,Friday
+16797,Strawberries,16,1446,Friday
+16797,Strawberries,17,1209,Friday
+16797,Strawberries,18,980,Friday
+16797,Strawberries,19,736,Friday
+16797,Strawberries,20,599,Friday
+16797,Strawberries,21,534,Friday
+16797,Strawberries,22,458,Friday
+16797,Strawberries,23,291,Friday
+21137,Organic Strawberries,0,276,Friday
+21137,Organic Strawberries,1,158,Friday
+21137,Organic Strawberries,2,84,Friday
+21137,Organic Strawberries,3,58,Friday
+21137,Organic Strawberries,4,58,Friday
+21137,Organic Strawberries,5,100,Friday
+21137,Organic Strawberries,6,314,Friday
+21137,Organic Strawberries,7,1221,Friday
+21137,Organic Strawberries,8,2336,Friday
+21137,Organic Strawberries,9,2827,Friday
+21137,Organic Strawberries,10,2952,Friday
+21137,Organic Strawberries,11,2866,Friday
+21137,Organic Strawberries,12,2955,Friday
+21137,Organic Strawberries,13,3089,Friday
+21137,Organic Strawberries,14,3190,Friday
+21137,Organic Strawberries,15,3149,Friday
+21137,Organic Strawberries,16,3029,Friday
+21137,Organic Strawberries,17,2400,Friday
+21137,Organic Strawberries,18,1946,Friday
+21137,Organic Strawberries,19,1484,Friday
+21137,Organic Strawberries,20,1216,Friday
+21137,Organic Strawberries,21,1117,Friday
+21137,Organic Strawberries,22,926,Friday
+21137,Organic Strawberries,23,585,Friday
+21903,Organic Baby Spinach,0,252,Friday
+21903,Organic Baby Spinach,1,168,Friday
+21903,Organic Baby Spinach,2,88,Friday
+21903,Organic Baby Spinach,3,66,Friday
+21903,Organic Baby Spinach,4,54,Friday
+21903,Organic Baby Spinach,5,83,Friday
+21903,Organic Baby Spinach,6,283,Friday
+21903,Organic Baby Spinach,7,984,Friday
+21903,Organic Baby Spinach,8,2016,Friday
+21903,Organic Baby Spinach,9,2584,Friday
+21903,Organic Baby Spinach,10,3081,Friday
+21903,Organic Baby Spinach,11,3024,Friday
+21903,Organic Baby Spinach,12,2981,Friday
+21903,Organic Baby Spinach,13,2974,Friday
+21903,Organic Baby Spinach,14,3166,Friday
+21903,Organic Baby Spinach,15,3013,Friday
+21903,Organic Baby Spinach,16,2762,Friday
+21903,Organic Baby Spinach,17,2280,Friday
+21903,Organic Baby Spinach,18,1797,Friday
+21903,Organic Baby Spinach,19,1402,Friday
+21903,Organic Baby Spinach,20,1109,Friday
+21903,Organic Baby Spinach,21,1004,Friday
+21903,Organic Baby Spinach,22,839,Friday
+21903,Organic Baby Spinach,23,592,Friday
+22935,Organic Yellow Onion,0,110,Friday
+22935,Organic Yellow Onion,1,61,Friday
+22935,Organic Yellow Onion,2,20,Friday
+22935,Organic Yellow Onion,3,18,Friday
+22935,Organic Yellow Onion,4,21,Friday
+22935,Organic Yellow Onion,5,43,Friday
+22935,Organic Yellow Onion,6,102,Friday
+22935,Organic Yellow Onion,7,448,Friday
+22935,Organic Yellow Onion,8,913,Friday
+22935,Organic Yellow Onion,9,1249,Friday
+22935,Organic Yellow Onion,10,1508,Friday
+22935,Organic Yellow Onion,11,1567,Friday
+22935,Organic Yellow Onion,12,1516,Friday
+22935,Organic Yellow Onion,13,1595,Friday
+22935,Organic Yellow Onion,14,1674,Friday
+22935,Organic Yellow Onion,15,1557,Friday
+22935,Organic Yellow Onion,16,1440,Friday
+22935,Organic Yellow Onion,17,1142,Friday
+22935,Organic Yellow Onion,18,789,Friday
+22935,Organic Yellow Onion,19,589,Friday
+22935,Organic Yellow Onion,20,501,Friday
+22935,Organic Yellow Onion,21,482,Friday
+22935,Organic Yellow Onion,22,386,Friday
+22935,Organic Yellow Onion,23,244,Friday
+24852,Banana,0,420,Friday
+24852,Banana,1,226,Friday
+24852,Banana,2,138,Friday
+24852,Banana,3,92,Friday
+24852,Banana,4,88,Friday
+24852,Banana,5,144,Friday
+24852,Banana,6,530,Friday
+24852,Banana,7,1864,Friday
+24852,Banana,8,3827,Friday
+24852,Banana,9,4767,Friday
+24852,Banana,10,5302,Friday
+24852,Banana,11,5239,Friday
+24852,Banana,12,5181,Friday
+24852,Banana,13,5300,Friday
+24852,Banana,14,5486,Friday
+24852,Banana,15,5558,Friday
+24852,Banana,16,5094,Friday
+24852,Banana,17,4279,Friday
+24852,Banana,18,3403,Friday
+24852,Banana,19,2677,Friday
+24852,Banana,20,2130,Friday
+24852,Banana,21,1791,Friday
+24852,Banana,22,1470,Friday
+24852,Banana,23,997,Friday
+24964,Organic Garlic,0,118,Friday
+24964,Organic Garlic,1,71,Friday
+24964,Organic Garlic,2,36,Friday
+24964,Organic Garlic,3,25,Friday
+24964,Organic Garlic,4,29,Friday
+24964,Organic Garlic,5,42,Friday
+24964,Organic Garlic,6,114,Friday
+24964,Organic Garlic,7,440,Friday
+24964,Organic Garlic,8,845,Friday
+24964,Organic Garlic,9,1228,Friday
+24964,Organic Garlic,10,1461,Friday
+24964,Organic Garlic,11,1512,Friday
+24964,Organic Garlic,12,1623,Friday
+24964,Organic Garlic,13,1600,Friday
+24964,Organic Garlic,14,1659,Friday
+24964,Organic Garlic,15,1539,Friday
+24964,Organic Garlic,16,1450,Friday
+24964,Organic Garlic,17,1163,Friday
+24964,Organic Garlic,18,807,Friday
+24964,Organic Garlic,19,609,Friday
+24964,Organic Garlic,20,472,Friday
+24964,Organic Garlic,21,457,Friday
+24964,Organic Garlic,22,372,Friday
+24964,Organic Garlic,23,268,Friday
+26209,Limes,0,153,Friday
+26209,Limes,1,74,Friday
+26209,Limes,2,43,Friday
+26209,Limes,3,27,Friday
+26209,Limes,4,28,Friday
+26209,Limes,5,40,Friday
+26209,Limes,6,147,Friday
+26209,Limes,7,500,Friday
+26209,Limes,8,1085,Friday
+26209,Limes,9,1600,Friday
+26209,Limes,10,1941,Friday
+26209,Limes,11,2027,Friday
+26209,Limes,12,2100,Friday
+26209,Limes,13,2131,Friday
+26209,Limes,14,2155,Friday
+26209,Limes,15,2063,Friday
+26209,Limes,16,1914,Friday
+26209,Limes,17,1486,Friday
+26209,Limes,18,1112,Friday
+26209,Limes,19,795,Friday
+26209,Limes,20,598,Friday
+26209,Limes,21,595,Friday
+26209,Limes,22,444,Friday
+26209,Limes,23,310,Friday
+27845,Organic Whole Milk,0,135,Friday
+27845,Organic Whole Milk,1,53,Friday
+27845,Organic Whole Milk,2,37,Friday
+27845,Organic Whole Milk,3,19,Friday
+27845,Organic Whole Milk,4,26,Friday
+27845,Organic Whole Milk,5,51,Friday
+27845,Organic Whole Milk,6,165,Friday
+27845,Organic Whole Milk,7,650,Friday
+27845,Organic Whole Milk,8,1338,Friday
+27845,Organic Whole Milk,9,1546,Friday
+27845,Organic Whole Milk,10,1631,Friday
+27845,Organic Whole Milk,11,1505,Friday
+27845,Organic Whole Milk,12,1491,Friday
+27845,Organic Whole Milk,13,1665,Friday
+27845,Organic Whole Milk,14,1737,Friday
+27845,Organic Whole Milk,15,1699,Friday
+27845,Organic Whole Milk,16,1470,Friday
+27845,Organic Whole Milk,17,1231,Friday
+27845,Organic Whole Milk,18,948,Friday
+27845,Organic Whole Milk,19,763,Friday
+27845,Organic Whole Milk,20,669,Friday
+27845,Organic Whole Milk,21,625,Friday
+27845,Organic Whole Milk,22,448,Friday
+27845,Organic Whole Milk,23,296,Friday
+27966,Organic Raspberries,0,141,Friday
+27966,Organic Raspberries,1,57,Friday
+27966,Organic Raspberries,2,47,Friday
+27966,Organic Raspberries,3,25,Friday
+27966,Organic Raspberries,4,43,Friday
+27966,Organic Raspberries,5,58,Friday
+27966,Organic Raspberries,6,160,Friday
+27966,Organic Raspberries,7,592,Friday
+27966,Organic Raspberries,8,1234,Friday
+27966,Organic Raspberries,9,1472,Friday
+27966,Organic Raspberries,10,1537,Friday
+27966,Organic Raspberries,11,1495,Friday
+27966,Organic Raspberries,12,1510,Friday
+27966,Organic Raspberries,13,1549,Friday
+27966,Organic Raspberries,14,1635,Friday
+27966,Organic Raspberries,15,1602,Friday
+27966,Organic Raspberries,16,1473,Friday
+27966,Organic Raspberries,17,1157,Friday
+27966,Organic Raspberries,18,952,Friday
+27966,Organic Raspberries,19,736,Friday
+27966,Organic Raspberries,20,626,Friday
+27966,Organic Raspberries,21,493,Friday
+27966,Organic Raspberries,22,452,Friday
+27966,Organic Raspberries,23,290,Friday
+28204,Organic Fuji Apple,0,86,Friday
+28204,Organic Fuji Apple,1,37,Friday
+28204,Organic Fuji Apple,2,31,Friday
+28204,Organic Fuji Apple,3,13,Friday
+28204,Organic Fuji Apple,4,21,Friday
+28204,Organic Fuji Apple,5,22,Friday
+28204,Organic Fuji Apple,6,96,Friday
+28204,Organic Fuji Apple,7,304,Friday
+28204,Organic Fuji Apple,8,667,Friday
+28204,Organic Fuji Apple,9,810,Friday
+28204,Organic Fuji Apple,10,896,Friday
+28204,Organic Fuji Apple,11,921,Friday
+28204,Organic Fuji Apple,12,917,Friday
+28204,Organic Fuji Apple,13,944,Friday
+28204,Organic Fuji Apple,14,920,Friday
+28204,Organic Fuji Apple,15,983,Friday
+28204,Organic Fuji Apple,16,916,Friday
+28204,Organic Fuji Apple,17,792,Friday
+28204,Organic Fuji Apple,18,612,Friday
+28204,Organic Fuji Apple,19,430,Friday
+28204,Organic Fuji Apple,20,361,Friday
+28204,Organic Fuji Apple,21,305,Friday
+28204,Organic Fuji Apple,22,261,Friday
+28204,Organic Fuji Apple,23,148,Friday
+39275,Organic Blueberries,0,110,Friday
+39275,Organic Blueberries,1,57,Friday
+39275,Organic Blueberries,2,27,Friday
+39275,Organic Blueberries,3,14,Friday
+39275,Organic Blueberries,4,34,Friday
+39275,Organic Blueberries,5,38,Friday
+39275,Organic Blueberries,6,115,Friday
+39275,Organic Blueberries,7,452,Friday
+39275,Organic Blueberries,8,841,Friday
+39275,Organic Blueberries,9,1088,Friday
+39275,Organic Blueberries,10,1179,Friday
+39275,Organic Blueberries,11,1177,Friday
+39275,Organic Blueberries,12,1093,Friday
+39275,Organic Blueberries,13,1140,Friday
+39275,Organic Blueberries,14,1219,Friday
+39275,Organic Blueberries,15,1134,Friday
+39275,Organic Blueberries,16,1102,Friday
+39275,Organic Blueberries,17,1000,Friday
+39275,Organic Blueberries,18,719,Friday
+39275,Organic Blueberries,19,548,Friday
+39275,Organic Blueberries,20,501,Friday
+39275,Organic Blueberries,21,413,Friday
+39275,Organic Blueberries,22,340,Friday
+39275,Organic Blueberries,23,230,Friday
+40706,Organic Grape Tomatoes,0,75,Friday
+40706,Organic Grape Tomatoes,1,46,Friday
+40706,Organic Grape Tomatoes,2,34,Friday
+40706,Organic Grape Tomatoes,3,15,Friday
+40706,Organic Grape Tomatoes,4,18,Friday
+40706,Organic Grape Tomatoes,5,30,Friday
+40706,Organic Grape Tomatoes,6,78,Friday
+40706,Organic Grape Tomatoes,7,358,Friday
+40706,Organic Grape Tomatoes,8,652,Friday
+40706,Organic Grape Tomatoes,9,885,Friday
+40706,Organic Grape Tomatoes,10,1023,Friday
+40706,Organic Grape Tomatoes,11,1010,Friday
+40706,Organic Grape Tomatoes,12,1022,Friday
+40706,Organic Grape Tomatoes,13,1008,Friday
+40706,Organic Grape Tomatoes,14,1079,Friday
+40706,Organic Grape Tomatoes,15,1143,Friday
+40706,Organic Grape Tomatoes,16,1020,Friday
+40706,Organic Grape Tomatoes,17,821,Friday
+40706,Organic Grape Tomatoes,18,652,Friday
+40706,Organic Grape Tomatoes,19,505,Friday
+40706,Organic Grape Tomatoes,20,397,Friday
+40706,Organic Grape Tomatoes,21,355,Friday
+40706,Organic Grape Tomatoes,22,345,Friday
+40706,Organic Grape Tomatoes,23,207,Friday
+45007,Organic Zucchini,0,85,Friday
+45007,Organic Zucchini,1,57,Friday
+45007,Organic Zucchini,2,27,Friday
+45007,Organic Zucchini,3,17,Friday
+45007,Organic Zucchini,4,22,Friday
+45007,Organic Zucchini,5,31,Friday
+45007,Organic Zucchini,6,96,Friday
+45007,Organic Zucchini,7,441,Friday
+45007,Organic Zucchini,8,800,Friday
+45007,Organic Zucchini,9,1114,Friday
+45007,Organic Zucchini,10,1318,Friday
+45007,Organic Zucchini,11,1344,Friday
+45007,Organic Zucchini,12,1416,Friday
+45007,Organic Zucchini,13,1304,Friday
+45007,Organic Zucchini,14,1486,Friday
+45007,Organic Zucchini,15,1351,Friday
+45007,Organic Zucchini,16,1290,Friday
+45007,Organic Zucchini,17,1039,Friday
+45007,Organic Zucchini,18,797,Friday
+45007,Organic Zucchini,19,556,Friday
+45007,Organic Zucchini,20,481,Friday
+45007,Organic Zucchini,21,488,Friday
+45007,Organic Zucchini,22,378,Friday
+45007,Organic Zucchini,23,230,Friday
+47209,Organic Hass Avocado,0,212,Friday
+47209,Organic Hass Avocado,1,96,Friday
+47209,Organic Hass Avocado,2,80,Friday
+47209,Organic Hass Avocado,3,51,Friday
+47209,Organic Hass Avocado,4,55,Friday
+47209,Organic Hass Avocado,5,72,Friday
+47209,Organic Hass Avocado,6,209,Friday
+47209,Organic Hass Avocado,7,783,Friday
+47209,Organic Hass Avocado,8,1641,Friday
+47209,Organic Hass Avocado,9,2055,Friday
+47209,Organic Hass Avocado,10,2382,Friday
+47209,Organic Hass Avocado,11,2436,Friday
+47209,Organic Hass Avocado,12,2509,Friday
+47209,Organic Hass Avocado,13,2431,Friday
+47209,Organic Hass Avocado,14,2574,Friday
+47209,Organic Hass Avocado,15,2557,Friday
+47209,Organic Hass Avocado,16,2338,Friday
+47209,Organic Hass Avocado,17,1873,Friday
+47209,Organic Hass Avocado,18,1444,Friday
+47209,Organic Hass Avocado,19,1099,Friday
+47209,Organic Hass Avocado,20,903,Friday
+47209,Organic Hass Avocado,21,741,Friday
+47209,Organic Hass Avocado,22,627,Friday
+47209,Organic Hass Avocado,23,422,Friday
+47626,Large Lemon,0,145,Friday
+47626,Large Lemon,1,82,Friday
+47626,Large Lemon,2,49,Friday
+47626,Large Lemon,3,46,Friday
+47626,Large Lemon,4,27,Friday
+47626,Large Lemon,5,56,Friday
+47626,Large Lemon,6,145,Friday
+47626,Large Lemon,7,530,Friday
+47626,Large Lemon,8,1141,Friday
+47626,Large Lemon,9,1720,Friday
+47626,Large Lemon,10,1982,Friday
+47626,Large Lemon,11,2092,Friday
+47626,Large Lemon,12,2170,Friday
+47626,Large Lemon,13,2051,Friday
+47626,Large Lemon,14,2137,Friday
+47626,Large Lemon,15,1982,Friday
+47626,Large Lemon,16,1882,Friday
+47626,Large Lemon,17,1479,Friday
+47626,Large Lemon,18,1121,Friday
+47626,Large Lemon,19,800,Friday
+47626,Large Lemon,20,610,Friday
+47626,Large Lemon,21,604,Friday
+47626,Large Lemon,22,497,Friday
+47626,Large Lemon,23,341,Friday
+47766,Organic Avocado,0,157,Friday
+47766,Organic Avocado,1,85,Friday
+47766,Organic Avocado,2,52,Friday
+47766,Organic Avocado,3,35,Friday
+47766,Organic Avocado,4,31,Friday
+47766,Organic Avocado,5,46,Friday
+47766,Organic Avocado,6,177,Friday
+47766,Organic Avocado,7,666,Friday
+47766,Organic Avocado,8,1327,Friday
+47766,Organic Avocado,9,1841,Friday
+47766,Organic Avocado,10,2128,Friday
+47766,Organic Avocado,11,2227,Friday
+47766,Organic Avocado,12,2133,Friday
+47766,Organic Avocado,13,2313,Friday
+47766,Organic Avocado,14,2254,Friday
+47766,Organic Avocado,15,2205,Friday
+47766,Organic Avocado,16,2045,Friday
+47766,Organic Avocado,17,1722,Friday
+47766,Organic Avocado,18,1356,Friday
+47766,Organic Avocado,19,990,Friday
+47766,Organic Avocado,20,722,Friday
+47766,Organic Avocado,21,723,Friday
+47766,Organic Avocado,22,555,Friday
+47766,Organic Avocado,23,384,Friday
+49683,Cucumber Kirby,0,106,Friday
+49683,Cucumber Kirby,1,55,Friday
+49683,Cucumber Kirby,2,34,Friday
+49683,Cucumber Kirby,3,13,Friday
+49683,Cucumber Kirby,4,19,Friday
+49683,Cucumber Kirby,5,33,Friday
+49683,Cucumber Kirby,6,127,Friday
+49683,Cucumber Kirby,7,336,Friday
+49683,Cucumber Kirby,8,679,Friday
+49683,Cucumber Kirby,9,944,Friday
+49683,Cucumber Kirby,10,1173,Friday
+49683,Cucumber Kirby,11,1183,Friday
+49683,Cucumber Kirby,12,1209,Friday
+49683,Cucumber Kirby,13,1309,Friday
+49683,Cucumber Kirby,14,1247,Friday
+49683,Cucumber Kirby,15,1185,Friday
+49683,Cucumber Kirby,16,1145,Friday
+49683,Cucumber Kirby,17,916,Friday
+49683,Cucumber Kirby,18,735,Friday
+49683,Cucumber Kirby,19,571,Friday
+49683,Cucumber Kirby,20,463,Friday
+49683,Cucumber Kirby,21,375,Friday
+49683,Cucumber Kirby,22,340,Friday
+49683,Cucumber Kirby,23,198,Friday

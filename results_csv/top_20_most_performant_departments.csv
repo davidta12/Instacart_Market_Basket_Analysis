@@ -1,0 +1,21 @@
+department_id,department,sales,rank
+4,produce,9888378,1
+16,dairy eggs,5631067,2
+19,snacks,3006412,3
+7,beverages,2804175,4
+1,frozen,2336858,5
+13,pantry,1956819,6
+3,bakery,1225181,7
+15,canned goods,1114857,8
+20,deli,1095540,9
+9,dry goods pasta,905340,10
+17,household,774652,11
+12,meat seafood,739238,12
+14,breakfast,739069,13
+11,personal care,468693,14
+18,babies,438743,15
+6,international,281155,16
+5,alcohol,159294,17
+8,pets,102221,18
+21,missing,77396,19
+2,other,38086,20
